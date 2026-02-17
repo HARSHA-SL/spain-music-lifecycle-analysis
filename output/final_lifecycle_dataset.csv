@@ -1,0 +1,584 @@
+song_id,entry_date,exit_date,total_days,peak_rank,avg_rank,peak_date,days_to_peak,artist,album_type,is_explicit,duration_ms,total_tracks,popularity,lifecycle_type
+0 CONFIANZA-Rvfv,2025-06-02,2025-06-23,20,23,29.65,2025-06-07,5,Rvfv,album,False,217500,20,35,Medium Run
+"1 de Enero, Puntacana-Rels B",2025-04-28,2025-04-28,1,45,45.0,2025-04-28,0,Rels B,album,False,95000,13,65,Short Hit
+1000COSAS-Lola Indigo & Manuel Turizo,2025-03-10,2025-11-13,245,3,20.428571428571427,2025-03-10,0,Lola Indigo & Manuel Turizo,single,False,239482,1,65,Evergreen
+100xCiento-Foreign Teck & Eladio Carrion & De La Ghetto,2025-04-30,2025-05-15,11,13,28.181818181818183,2025-05-11,11,Foreign Teck & Eladio Carrion & De La Ghetto,single,True,219682,1,72,Medium Run
+14 FEBREROS-Quevedo,2025-11-24,2025-11-27,4,9,13.5,2025-11-24,0,Quevedo,album,True,172422,18,63,Short Hit
+2AM-Sebastian Yatra & Bad Gyal,2025-11-24,2025-11-27,4,31,39.5,2025-11-27,3,Sebastian Yatra & Bad Gyal,single,False,196426,1,55,Short Hit
+2xLL-JC Reyes & YOVNGCHIMI & Slayter,2025-07-12,2025-08-09,26,35,40.76923076923077,2025-07-23,11,JC Reyes & YOVNGCHIMI & Slayter,single,False,178909,1,61,Medium Run
+3 CAÍDAS-SAIKO,2025-04-28,2025-05-05,8,13,30.75,2025-04-28,0,SAIKO,album,False,251565,16,61,Short Hit
+4 PREZ-Cruz Cafuné,2024-05-28,2024-05-29,2,35,40.5,2024-05-28,0,Cruz Cafuné,album,True,149484,23,53,Short Hit
+4TO 23-Aitana,2025-07-07,2025-07-16,9,17,35.0,2025-07-07,0,Aitana,single,False,168320,1,58,Short Hit
+50 PALOS-Feid,2024-12-02,2024-12-02,1,38,38.0,2024-12-02,0,Feid,album,True,167240,10,0,Short Hit
+57-KAROL G & Feid & DFZM,2025-11-10,2025-11-27,18,8,17.833333333333332,2025-11-10,0,KAROL G & Feid & DFZM,single,True,298130,1,69,Medium Run
+58-JHAYCO,2025-09-08,2025-09-18,8,35,44.0,2025-09-08,0,JHAYCO,album,False,287586,29,56,Short Hit
+69-Nicky Jam & Feid,2024-05-21,2024-06-30,41,22,36.048780487804876,2024-05-31,10,Nicky Jam & Feid,single,True,221935,1,67,Medium Run
+A 300-JC Reyes & Pedro Calderon,2024-08-06,2025-01-05,148,15,29.06081081081081,2025-01-05,152,JC Reyes & Pedro Calderon,single,False,169208,1,73,Long Runner
+A 300-JC Reyes & Pedro Calderon & Blacknife,2025-01-06,2025-04-24,107,11,20.72897196261682,2025-01-14,8,JC Reyes & Pedro Calderon & Blacknife,single,False,169208,1,77,Long Runner
+ACHO PR-Bad Bunny,2024-10-14,2024-10-20,7,15,30.428571428571427,2024-10-14,0,Bad Bunny,album,True,359647,22,0,Short Hit
+ADIVINO-Myke Towers,2025-08-24,2025-11-16,85,10,31.75294117647059,2025-08-24,0,Myke Towers,album,True,278644,20,0,Long Runner
+ADIVINO-Myke Towers & Bad Bunny,2025-04-28,2025-08-23,116,1,9.818965517241379,2025-04-28,0,Myke Towers & Bad Bunny,single,True,278644,1,77,Long Runner
+ALAKRAN-Feid,2024-12-02,2024-12-05,3,24,39.333333333333336,2024-12-02,0,Feid,album,False,90613,10,0,Short Hit
+AMANECIÓ-Quevedo,2025-11-24,2025-11-27,4,13,17.0,2025-11-24,0,Quevedo,album,False,255333,18,62,Short Hit
+AMARGURA-KAROL G,2024-05-26,2025-10-31,153,16,32.76470588235294,2025-07-26,426,KAROL G,album,True,170480,17,85,Evergreen
+APAGA EL CEL-FloyyMenor,2025-08-10,2025-09-04,14,22,38.57142857142857,2025-08-10,0,FloyyMenor,album,True,184806,7,6,Medium Run
+APAGA EL CEL-FloyyMenor & Lewis Somes,2025-05-26,2025-08-09,75,7,18.76,2025-06-12,17,FloyyMenor & Lewis Somes,single,True,184806,1,74,Long Runner
+APT.-ROSÉ & Bruno Mars,2025-10-23,2025-11-01,7,42,44.42857142857143,2025-10-30,7,ROSÉ & Bruno Mars,single,False,169917,1,88,Short Hit
+AQYNE-Aitana,2024-09-27,2024-09-29,3,40,40.333333333333336,2024-09-28,1,Aitana,album,False,181426,15,71,Short Hit
+ASI ES LA VIDA-Enrique Iglesias & Maria Becerra,2024-11-22,2025-03-23,66,38,45.166666666666664,2025-01-31,70,Enrique Iglesias & Maria Becerra,single,False,172095,1,83,Long Runner
+ATTITUDE (FEAT. CHARLIE WILSON & CASH COBAIN)-Don Toliver,2025-06-21,2025-06-21,1,46,46.0,2025-06-21,0,Don Toliver,album,True,161053,16,69,Short Hit
+AUNQUE LLEGUE OTRO (feat. Jay Wheeler)-Myke Towers,2025-08-24,2025-08-24,1,23,23.0,2025-08-24,0,Myke Towers,album,True,197800,20,0,Short Hit
+AYER Y HOY-Mora,2024-08-30,2024-08-31,2,23,34.5,2024-08-30,0,Mora,album,True,317016,15,0,Short Hit
+Acróstico-Shakira,2024-05-18,2024-07-09,53,1,18.339622641509433,2024-05-19,1,Shakira,single,False,170785,1,81,Long Runner
+Akureyri-Aitana & Sebastian Yatra,2025-04-28,2025-06-01,34,10,27.88235294117647,2025-04-28,0,Aitana & Sebastian Yatra,single,False,194400,1,64,Medium Run
+Alegría-Tiago PZK,2025-09-28,2025-10-05,8,8,20.0,2025-10-02,4,Tiago PZK,album,False,165054,14,73,Short Hit
+All I Want for Christmas Is You-Mariah Carey,2024-12-03,2025-01-02,20,1,32.95,2024-12-25,22,Mariah Carey,album,False,241106,10,95,Medium Run
+Alucin-Eugenio Esquivel & Grupo Marca Registrada & Sebastian Esquivel,2025-01-13,2025-04-05,35,21,39.48571428571429,2025-03-22,68,Eugenio Esquivel & Grupo Marca Registrada & Sebastian Esquivel,single,True,197114,1,89,Medium Run
+Amanece-Anuel AA & Haze,2024-05-25,2025-07-06,15,47,48.53333333333333,2024-06-23,29,Anuel AA & Haze,single,False,190004,1,84,Medium Run
+Amar De Nuevo-Rauw Alejandro,2025-11-17,2025-11-17,1,45,45.0,2025-11-17,0,Rauw Alejandro,album,True,268042,18,64,Short Hit
+Andando-Morad,2024-05-18,2024-06-03,17,34,41.1764705882353,2024-05-19,1,Morad,album,True,261713,19,67,Medium Run
+Antes-Rvfv & Edu García,2024-05-18,2024-07-22,58,29,42.0,2024-05-18,0,Rvfv & Edu García,single,False,153684,1,79,Long Runner
+Antidepresivos-Saiko,2024-08-06,2024-12-19,136,13,29.779411764705884,2024-08-06,0,Saiko,single,False,145384,1,64,Long Runner
+Arena y Sal-Omar Montes & Saiko & Tunvao,2024-05-21,2025-01-20,242,3,20.024793388429753,2024-08-06,77,Omar Montes & Saiko & Tunvao,single,False,174415,1,59,Evergreen
+Arranca (feat. Omega)-Becky G & Omega,2024-05-18,2024-07-25,69,38,44.21739130434783,2024-05-18,0,Becky G & Omega,single,False,166529,1,82,Long Runner
+Ayer-DELLAFUENTE,2025-06-16,2025-06-18,2,37,43.0,2025-06-16,0,DELLAFUENTE,album,False,155700,10,30,Short Hit
+BABY HELLO-Rauw Alejandro,2024-07-09,2025-04-19,281,3,23.206405693950177,2024-07-09,0,Rauw Alejandro,album,True,222461,14,0,Evergreen
+BABY HELLO-Rauw Alejandro & Bizarrap,2024-06-25,2024-07-08,14,2,2.5714285714285716,2024-06-28,3,Rauw Alejandro & Bizarrap,single,True,222461,1,71,Medium Run
+BABY NUEVA-Bad Bunny,2024-10-14,2024-10-28,15,12,31.666666666666668,2024-10-14,0,Bad Bunny,album,True,240773,22,0,Medium Run
+BAD BOY-Chris Jedi & Gaby Music & Dei V,2025-02-11,2025-03-10,28,16,25.17241379310345,2025-02-11,0,Chris Jedi & Gaby Music & Dei V,single,True,235146,1,58,Medium Run
+BADGYAL-SAIKO,2025-04-28,2025-11-23,208,1,10.846153846153847,2025-05-01,3,SAIKO,album,True,253962,16,65,Evergreen
+BANDIT-Don Toliver,2025-06-21,2025-06-21,1,27,27.0,2025-06-21,0,Don Toliver,album,True,147706,16,69,Short Hit
+BATICANO-Bad Bunny,2024-10-14,2024-10-18,5,23,32.6,2024-10-14,0,Bad Bunny,album,True,256000,22,0,Short Hit
+BBY BOO - REMIX-iZaak & Jhayco & Anuel AA,2025-03-30,2025-07-23,115,5,18.043478260869566,2025-04-18,19,iZaak & Jhayco & Anuel AA,single,True,275862,3,63,Long Runner
+"BESAME (feat. Tiago PZK, Khea & Neo Pistea) - Remix-Bhavi & Seven Kayne & Milo j",2025-04-24,2025-05-06,11,28,42.54545454545455,2025-04-26,2,Bhavi & Seven Kayne & Milo j,single,True,284308,1,80,Medium Run
+BESO-ROSALÍA & Rauw Alejandro,2024-05-18,2024-10-06,142,4,21.929577464788732,2024-05-18,0,ROSALÍA & Rauw Alejandro,single,False,194543,3,96,Long Runner
+BESOS (with Kidd Keo & Neelo)-SwaggGlock & Kidd Keo & Neelo,2024-09-14,2024-10-13,30,22,32.0,2024-09-19,5,SwaggGlock & Kidd Keo & Neelo,single,True,172852,1,72,Medium Run
+BIRDS OF A FEATHER-Billie Eilish,2025-06-12,2025-06-13,2,49,49.0,2025-06-12,0,Billie Eilish,album,False,210373,10,92,Short Hit
+BOREAL-SAIKO,2025-04-28,2025-05-01,4,22,35.5,2025-04-28,0,SAIKO,album,False,165210,16,59,Short Hit
+BUBALU-Feid,2024-09-30,2024-10-06,7,26,36.285714285714285,2024-09-30,0,Feid,album,False,228253,15,0,Short Hit
+BUBALU-Feid & Rema,2024-09-24,2024-09-29,6,21,30.666666666666668,2024-09-25,1,Feid & Rema,single,False,228253,1,0,Short Hit
+BUENAS NOCHES-Quevedo,2025-11-24,2025-11-27,4,18,25.25,2025-11-24,0,Quevedo,album,False,238883,18,60,Short Hit
+Bailando Bachata-Chayanne,2025-05-13,2025-06-02,9,45,48.111111111111114,2025-06-01,19,Chayanne,album,False,170809,9,77,Short Hit
+Baja Pa' Acá-Rauw Alejandro,2025-11-17,2025-11-20,4,22,40.0,2025-11-17,0,Rauw Alejandro,album,True,200000,18,66,Short Hit
+Bandidona-Saiko,2024-10-29,2024-11-10,13,20,32.23076923076923,2024-10-29,0,Saiko,single,False,160941,1,39,Medium Run
+Barro-Duki,2025-10-20,2025-10-20,1,40,40.0,2025-10-20,0,Duki,single,False,201052,1,60,Short Hit
+Beautiful Things-Benson Boone,2025-03-13,2025-06-23,91,17,39.07692307692308,2025-04-04,22,Benson Boone,single,False,180304,1,100,Long Runner
+Bendecido-Eladio Carrion,2025-01-21,2025-01-26,6,7,23.0,2025-01-21,0,Eladio Carrion,album,True,142736,17,71,Short Hit
+Besitos BB 2.0-El Perla & Omar Montes & SAIKO,2025-10-16,2025-10-31,11,9,28.09090909090909,2025-10-16,0,El Perla & Omar Montes & SAIKO,single,True,233693,1,61,Medium Run
+Beso Prohibido-Beny Jr,2025-09-07,2025-09-07,1,49,49.0,2025-09-07,0,Beny Jr,album,False,152866,14,64,Short Hit
+Brindis-Duki,2025-11-03,2025-11-07,3,30,40.333333333333336,2025-11-03,0,Duki,album,True,180750,15,62,Short Hit
+Buenas-Quevedo & SAIKO,2025-03-02,2025-03-12,11,39,44.54545454545455,2025-03-02,0,Quevedo & SAIKO,single,False,192954,1,80,Medium Run
+Buenas-Quevedo & Saiko,2024-09-24,2025-02-28,158,1,18.481012658227847,2024-09-24,0,Quevedo & Saiko,single,False,192954,1,53,Evergreen
+Buscando Money-TWENTY SIX & Tayson Kryss,2025-02-02,2025-04-17,73,4,24.08219178082192,2025-02-15,13,TWENTY SIX & Tayson Kryss,single,False,150000,2,75,Long Runner
+Buscarte Lejos-Duki,2025-11-03,2025-11-09,7,28,37.57142857142857,2025-11-06,3,Duki,album,False,194447,15,62,Short Hit
+CACHÉ-Myke Towers,2025-08-24,2025-08-24,1,47,47.0,2025-08-24,0,Myke Towers,album,True,196906,20,0,Short Hit
+CALL ME MAYBE-Duki,2024-12-10,2024-12-10,1,50,50.0,2024-12-10,0,Duki,single,False,222401,1,65,Short Hit
+CARITA TRISTE-Ana Mena & Emilia,2025-09-01,2025-11-23,84,9,30.011904761904763,2025-09-07,6,Ana Mena & Emilia,single,False,175296,1,60,Long Runner
+CARTERA & TACOS-Myke Towers,2024-11-25,2024-11-25,1,47,47.0,2024-11-25,0,Myke Towers,album,True,129932,23,0,Short Hit
+CHAPIADORA.COM-Quevedo,2025-11-24,2025-11-27,4,8,14.0,2025-11-24,0,Quevedo,album,False,197418,18,63,Short Hit
+CHIHIRO-Billie Eilish,2025-05-19,2025-05-25,7,39,46.0,2025-05-19,0,Billie Eilish,album,False,303440,10,61,Short Hit
+CHORRITO PA LAS ANIMAS-Feid,2024-05-18,2024-06-14,28,32,38.892857142857146,2024-05-18,0,Feid,single,True,168133,6,91,Medium Run
+CHULA-JC Reyes,2024-12-28,2025-01-20,8,49,49.625,2025-01-17,20,JC Reyes,single,False,152842,1,69,Short Hit
+CLASSY 101-Feid,2024-12-02,2025-01-17,28,16,41.285714285714285,2024-12-02,0,Feid,album,True,195586,10,0,Medium Run
+CLASSY 101-Feid & Young Miko,2024-12-01,2024-12-01,1,35,35.0,2024-12-01,0,Feid & Young Miko,single,True,195986,1,92,Short Hit
+COCO LOCO-Maluma,2024-07-01,2024-11-26,113,9,22.36283185840708,2024-08-06,36,Maluma,single,False,166734,1,83,Long Runner
+COLMILLO-Tainy,2024-10-19,2024-11-14,9,18,35.666666666666664,2024-11-10,22,Tainy,album,True,265999,20,64,Short Hit
+COMETA HALLEY-SAIKO,2025-04-28,2025-05-05,8,24,33.875,2025-04-28,0,SAIKO,album,True,230549,16,59,Short Hit
+COMO SUENAN LAS ESTRELLAS-SAIKO,2025-04-28,2025-05-19,22,24,36.72727272727273,2025-04-30,2,SAIKO,album,False,138677,16,58,Medium Run
+COMPETENCIA-Myke Towers,2025-08-24,2025-08-25,2,19,34.0,2025-08-24,0,Myke Towers,album,True,190826,20,0,Short Hit
+COMUNA 3-JC Reyes & The Rude Boyz,2025-05-16,2025-05-17,2,38,42.5,2025-05-17,1,JC Reyes & The Rude Boyz,single,False,154128,1,61,Short Hit
+COMUNA 3-JC Reyes & The Rudeboyz,2025-05-18,2025-09-17,120,12,29.375,2025-06-05,18,JC Reyes & The Rudeboyz,single,False,154128,1,63,Long Runner
+CONTIGO (with Tiësto)-KAROL G & Tiësto,2025-02-17,2025-03-24,35,13,26.114285714285714,2025-02-18,1,KAROL G & Tiësto,single,False,192786,1,73,Medium Run
+CORAZÓN VACÍO-Maria Becerra,2024-07-05,2024-10-13,101,19,37.0,2024-07-19,14,Maria Becerra,single,False,160535,1,85,Long Runner
+CORLEONE-Saiko,2024-12-24,2025-01-15,20,21,42.25,2024-12-24,0,Saiko,album,False,192000,7,44,Medium Run
+CORLEONE-Saiko & Yandel,2024-12-17,2024-12-23,7,16,22.714285714285715,2024-12-21,4,Saiko & Yandel,single,False,192000,1,64,Short Hit
+COSAS QUE NO TE DIJE-SAIKO,2025-03-02,2025-04-27,55,25,37.345454545454544,2025-03-04,2,SAIKO,single,False,224725,1,84,Long Runner
+COSAS QUE NO TE DIJE-Saiko,2024-08-16,2025-03-01,198,7,17.371859296482413,2024-12-12,118,Saiko,single,False,224725,1,72,Evergreen
+COSMETICOS-Myke Towers,2024-11-25,2024-11-29,2,33,40.5,2024-11-25,0,Myke Towers,album,True,141862,23,0,Short Hit
+CRUSH-Sky Rompiendo & Dei V,2025-04-07,2025-08-23,137,15,28.496350364963504,2025-04-27,20,Sky Rompiendo & Dei V,single,False,233333,1,74,Long Runner
+CYBERTRUCK-Bad Bunny,2024-10-14,2024-10-21,8,8,26.5,2024-10-14,0,Bad Bunny,album,True,191959,22,0,Short Hit
+Cafe Malibú-Sech & Mora & Saiko,2024-07-23,2024-09-19,59,9,27.949152542372882,2024-07-25,2,Sech & Mora & Saiko,single,True,260307,1,69,Long Runner
+Cangrinaje-Cruz Cafuné,2024-05-28,2024-05-28,1,48,48.0,2024-05-28,0,Cruz Cafuné,album,True,211765,23,56,Short Hit
+Capri Sun-B10 & Kilvertz,2025-07-31,2025-08-14,14,34,41.142857142857146,2025-08-05,5,B10 & Kilvertz,single,False,168727,1,61,Medium Run
+Casanova-Soolking & Lola Indigo & Rvfv,2024-12-10,2025-05-29,168,1,18.437869822485208,2025-01-01,22,Soolking & Lola Indigo & Rvfv,single,False,243806,1,60,Evergreen
+Caserio-Yandel & SAIKO,2025-03-10,2025-03-10,1,41,41.0,2025-03-10,0,Yandel & SAIKO,single,True,189524,1,59,Short Hit
+Celine (with Kidd Keo)-Ghost Killer Track & Kidd Keo,2025-10-03,2025-11-27,55,9,21.472727272727273,2025-10-18,15,Ghost Killer Track & Kidd Keo,single,False,176017,1,65,Long Runner
+Cha Cha Cha-Käärijä,2024-05-18,2024-05-20,3,37,42.666666666666664,2024-05-18,0,Käärijä,single,False,175161,1,86,Short Hit
+Chulo pt.2-Bad Gyal & Tokischa & Young Miko,2024-06-24,2024-10-13,87,22,35.85057471264368,2024-06-28,4,Bad Gyal & Tokischa & Young Miko,single,True,219333,1,64,Long Runner
+Cine 🚬-Duki,2025-11-03,2025-11-03,1,42,42.0,2025-11-03,0,Duki,album,True,142957,15,61,Short Hit
+Classy 101-Feid & Young Miko,2024-05-18,2024-11-30,182,7,20.5,2024-05-18,0,Feid & Young Miko,single,True,195986,1,95,Evergreen
+Clavaito-Chanel & Abraham Mateo,2024-05-18,2025-01-04,153,6,17.065359477124183,2024-06-02,15,Chanel & Abraham Mateo,single,False,162740,1,78,Evergreen
+Coco Chanel-Eladio Carrion,2024-05-18,2024-09-29,127,16,29.921259842519685,2024-05-24,6,Eladio Carrion,album,True,208125,18,92,Long Runner
+Cohete-Shakira,2025-03-24,2025-03-30,6,21,41.333333333333336,2025-03-24,0,Shakira,album,False,172503,17,0,Short Hit
+Columbia-Quevedo,2024-07-08,2025-11-02,463,1,19.584051724137932,2024-07-09,1,Quevedo,single,False,186000,1,61,Evergreen
+Committed-Rauw Alejandro,2025-11-17,2025-11-17,1,29,29.0,2025-11-17,0,Rauw Alejandro,album,True,159344,18,66,Short Hit
+Como Camarón-Estopa,2024-11-29,2025-02-21,35,32,43.8,2025-01-03,35,Estopa,album,False,202026,12,70,Medium Run
+Conexión-Cano,2025-10-27,2025-11-14,14,27,41.142857142857146,2025-10-27,0,Cano,album,False,188160,10,38,Medium Run
+Conexión-Cano & JC Reyes,2025-10-25,2025-10-26,2,40,43.0,2025-10-26,1,Cano & JC Reyes,single,False,188160,1,63,Short Hit
+Constelación-Duki,2025-11-03,2025-11-10,8,26,30.875,2025-11-03,0,Duki,album,False,200631,15,58,Short Hit
+Constelación-Duki & Lia Kali,2025-11-01,2025-11-02,2,29,39.5,2025-11-01,0,Duki & Lia Kali,single,False,200631,1,58,Short Hit
+Copa Vacía-Shakira & Manuel Turizo,2024-07-02,2024-07-28,27,16,38.48148148148148,2024-07-02,0,Shakira & Manuel Turizo,single,False,173547,1,74,Medium Run
+Corazón Roto - Remix-Brray & Jhayco & Ryan Castro,2024-08-10,2024-09-13,33,26,36.84848484848485,2024-09-09,30,Brray & Jhayco & Ryan Castro,single,True,275040,1,86,Medium Run
+Corazón Roto pt. 3-Brray & Anuel AA & Chencho Corleone,2024-09-13,2025-02-04,104,21,37.25,2024-09-27,14,Brray & Anuel AA & Chencho Corleone,single,True,348400,1,70,Long Runner
+Cosa Nuestra-Rauw Alejandro,2025-11-17,2025-11-18,2,16,30.0,2025-11-17,0,Rauw Alejandro,album,True,260454,18,67,Short Hit
+Cosas Pendientes-Maluma,2025-11-24,2025-11-27,2,37,42.5,2025-11-27,3,Maluma,single,False,184462,1,64,Short Hit
+Cruel Summer-Taylor Swift,2025-06-01,2025-06-01,1,39,39.0,2025-06-01,0,Taylor Swift,album,False,178426,18,94,Short Hit
+Cuando Te Vi | CROSSOVER #5-Big One & Maria Becerra & Trueno,2025-07-05,2025-10-28,114,11,26.44736842105263,2025-08-14,40,Big One & Maria Becerra & Trueno,single,True,218400,5,74,Long Runner
+Cupido-Engel Montaz & Kuv507 & Latinnites Music,2025-04-18,2025-06-05,15,22,37.06666666666667,2025-04-23,5,Engel Montaz & Kuv507 & Latinnites Music,single,False,215000,1,76,Medium Run
+Cupido-TINI,2024-05-18,2024-09-12,105,17,33.41904761904762,2024-05-19,1,TINI,album,False,174369,14,84,Long Runner
+CÓRCEGA-Mora,2024-08-30,2024-09-02,4,17,36.75,2024-08-30,0,Mora,album,True,189001,15,0,Short Hit
+Cómo Te Atreves-Morat,2025-03-02,2025-03-02,1,45,45.0,2025-03-02,0,Morat,album,False,240560,12,78,Short Hit
+Cúrame-Rauw Alejandro,2025-08-01,2025-08-16,15,41,44.53333333333333,2025-08-10,9,Rauw Alejandro,album,True,164705,14,82,Medium Run
+DE PLASTILINA-Lola Indigo & Pepe y Vizio,2024-10-21,2024-10-22,2,40,45.0,2024-10-21,0,Lola Indigo & Pepe y Vizio,single,False,209533,1,0,Short Hit
+DEGENERE 👑 (feat. benny blanco)-Myke Towers,2025-10-20,2025-11-27,39,1,3.128205128205128,2025-10-25,5,Myke Towers,album,True,130880,30,58,Medium Run
+DEMO #5: nostalgIA - Spanglish Version-FlowGPT,2024-11-08,2024-11-09,2,12,16.0,2024-11-09,1,FlowGPT,single,True,220405,1,39,Short Hit
+DEPORTIVO-Blessd & Anuel AA,2025-11-16,2025-11-23,4,35,43.5,2025-11-23,7,Blessd & Anuel AA,single,True,218701,1,58,Short Hit
+DESATAAA-Ovy On The Drums & Myke Towers & SAIKO,2025-03-17,2025-05-24,66,6,23.015151515151516,2025-03-21,4,Ovy On The Drums & Myke Towers & SAIKO,single,True,197383,1,60,Long Runner
+DESATAAA-Ovy On The Drums & Myke Towers & Saiko,2025-04-26,2025-07-09,47,28,37.1063829787234,2025-05-28,32,Ovy On The Drums & Myke Towers & Saiko,single,True,197383,1,78,Medium Run
+DESPECHÁ-ROSALÍA,2024-05-22,2025-01-02,51,39,47.01960784313726,2024-06-12,21,ROSALÍA,album,False,156787,24,84,Long Runner
+DESQUITE-Feid,2024-12-02,2024-12-02,1,39,39.0,2024-12-02,0,Feid,album,False,133546,10,0,Short Hit
+DIABLA-Los Diozes,2025-10-27,2025-11-20,25,17,29.56,2025-11-03,7,Los Diozes,album,True,217945,8,62,Medium Run
+DIABLITA (feat. YOVNGCHIMI)-Myke Towers,2025-08-24,2025-09-04,9,34,41.55555555555556,2025-08-24,0,Myke Towers,album,True,185960,20,0,Short Hit
+DIAMONDS-Mora,2024-08-30,2024-09-02,4,18,34.75,2024-08-30,0,Mora,album,True,193367,15,0,Short Hit
+DILUVIO-Rauw Alejandro,2024-10-21,2025-10-14,188,3,18.82010582010582,2024-11-16,26,Rauw Alejandro,album,True,197052,14,77,Evergreen
+DINERO y FAMA (feat. Omar Montes)-Myke Towers,2025-08-24,2025-08-24,1,40,40.0,2025-08-24,0,Myke Towers,album,True,215946,20,0,Short Hit
+DONDE SE APRENDE A QUERER?-Mora,2024-08-30,2025-02-17,152,3,31.19736842105263,2024-08-30,0,Mora,album,False,144427,15,0,Evergreen
+DUBAI-Trueno & Beny Jr,2024-06-15,2024-06-22,8,47,49.0,2024-06-17,2,Trueno & Beny Jr,single,False,146000,1,75,Short Hit
+DURO-Quevedo,2025-11-02,2025-11-27,26,1,11.384615384615385,2025-11-02,0,Quevedo,single,False,162204,1,66,Medium Run
+Dararí-Aitana,2024-09-24,2024-09-29,6,13,27.5,2024-09-24,0,Aitana,album,False,170346,15,40,Short Hit
+Después De La 1-Cris Mj & FloyyMenor,2025-09-19,2025-11-23,63,11,26.650793650793652,2025-09-27,8,Cris Mj & FloyyMenor,single,True,177600,2,77,Long Runner
+Detrás del DJ-Rels B,2025-04-28,2025-04-28,1,39,39.0,2025-04-28,0,Rels B,album,True,119354,13,66,Short Hit
+Diabólica-Cris Mj,2025-03-13,2025-08-19,156,14,30.28846153846154,2025-03-23,10,Cris Mj,album,True,192000,17,70,Evergreen
+Dicelo-Lianet Rivero & Lia & Gatillo,2024-10-20,2024-10-23,4,24,28.25,2024-10-21,1,Lianet Rivero & Lia & Gatillo,single,False,153563,1,52,Short Hit
+Die With A Smile-Lady Gaga & Bruno Mars,2025-08-31,2025-11-23,48,29,40.854166666666664,2025-11-15,76,Lady Gaga & Bruno Mars,single,False,251667,1,94,Medium Run
+Dios #1-Cruz Cafuné,2024-05-28,2024-05-28,1,43,43.0,2024-05-28,0,Cruz Cafuné,album,True,200125,23,56,Short Hit
+Doblexxó-J Balvin,2025-08-10,2025-08-23,12,33,43.166666666666664,2025-08-10,0,J Balvin,album,True,176720,15,0,Medium Run
+Duro De Verdad pt.2-Los Sufridos,2025-09-20,2025-09-20,1,39,39.0,2025-09-20,0,Los Sufridos,single,False,204303,1,55,Short Hit
+Duro De Verdad pt.2-Los Sufridos & Bad Gyal,2025-09-21,2025-11-27,68,1,6.514705882352941,2025-09-27,6,Los Sufridos & Bad Gyal,single,False,204303,1,59,Long Runner
+Déjame Entrar-Rauw Alejandro,2025-07-25,2025-11-23,9,17,37.666666666666664,2025-11-17,115,Rauw Alejandro,single,True,254705,1,73,Short Hit
+EL CHACAL-Mora,2024-08-30,2024-09-02,4,10,19.75,2024-08-30,0,Mora,album,True,197787,15,0,Short Hit
+EL CONDENAO-Lola Indigo,2024-12-17,2025-01-04,12,35,44.583333333333336,2024-12-22,5,Lola Indigo,album,False,144829,7,53,Medium Run
+EL ESTRIBILLO-Quevedo,2025-11-24,2025-11-27,4,16,24.75,2025-11-24,0,Quevedo,album,False,161444,18,61,Short Hit
+EL PANTALON - RUMBAS-Omar Montes,2025-06-02,2025-09-12,101,2,23.455445544554454,2025-06-16,14,Omar Montes,album,False,193066,11,27,Long Runner
+EL TONTO-Lola Indigo,2024-05-18,2025-01-10,205,2,24.965853658536584,2024-05-18,0,Lola Indigo,album,False,187986,11,83,Evergreen
+EMPELOTICA-Lenny Tavárez & Feid,2025-02-25,2025-04-06,36,16,32.2972972972973,2025-03-03,6,Lenny Tavárez & Feid,single,True,190322,1,0,Medium Run
+EMRATA-Myke Towers,2024-11-25,2024-11-25,1,46,46.0,2024-11-25,0,Myke Towers,album,True,225507,23,0,Short Hit
+EROTICAAAAAAA-Gonzy,2025-10-13,2025-10-31,15,38,45.4,2025-10-25,12,Gonzy,album,True,169666,18,47,Medium Run
+ESKELETO-SAIKO,2025-04-28,2025-10-23,113,11,36.15929203539823,2025-05-02,4,SAIKO,album,True,279893,16,61,Long Runner
+El Cielo-Sky Rompiendo & Feid & Myke Towers,2024-06-04,2025-03-09,270,2,26.274074074074075,2024-06-10,6,Sky Rompiendo & Feid & Myke Towers,single,True,191320,1,71,Evergreen
+El Conjuntito-El Bobe & Omar Montes,2025-03-24,2025-09-23,180,1,17.294444444444444,2025-04-09,16,El Bobe & Omar Montes,single,False,158711,1,28,Evergreen
+El Destello-Juanjo Bona & Martin Urrutia,2025-10-06,2025-10-06,1,36,36.0,2025-10-06,0,Juanjo Bona & Martin Urrutia,single,False,160684,1,57,Short Hit
+El Fin del Mundo-La La Love You,2025-06-03,2025-11-23,98,37,46.42857142857143,2025-08-25,83,La La Love You,album,False,188093,18,69,Long Runner
+El Jefe-Shakira & Fuerza Regida,2024-09-24,2024-10-03,10,31,39.3,2024-09-27,3,Shakira & Fuerza Regida,single,True,170297,1,70,Short Hit
+El Malo-Eladio Carrion,2025-01-21,2025-02-17,27,20,34.44444444444444,2025-01-25,4,Eladio Carrion,album,False,209655,17,67,Medium Run
+El Mambo-Kiko Rivera,2024-10-04,2025-02-28,144,2,24.26388888888889,2024-10-13,9,Kiko Rivera,single,False,129845,1,57,Long Runner
+El Merengue-Marshmello,2024-11-04,2025-11-18,317,19,36.47634069400631,2024-11-05,1,Marshmello,album,False,189668,8,11,Evergreen
+El Merengue-Marshmello & Manuel Turizo,2024-05-18,2024-11-03,170,5,13.005882352941176,2024-05-18,0,Marshmello & Manuel Turizo,single,False,189668,1,91,Evergreen
+El Patio-Pepe y Vizio & Delaossa & KIDDO,2025-02-22,2025-08-27,152,8,28.61437908496732,2025-03-07,13,Pepe y Vizio & Delaossa & KIDDO,single,False,232645,1,70,Evergreen
+Ella Baila Sola-Eslabon Armado,2024-05-18,2024-08-09,84,9,24.571428571428573,2024-06-03,16,Eslabon Armado,album,False,165671,16,89,Long Runner
+En To Lao-Haze & Jhayco,2024-06-15,2024-07-01,11,45,48.27272727272727,2024-07-01,16,Haze & Jhayco,single,True,195033,1,71,Medium Run
+Enamórate-Nicki Nicole & Bad Gyal,2024-11-16,2024-12-01,15,31,37.666666666666664,2024-11-18,2,Nicki Nicole & Bad Gyal,single,False,147785,1,49,Medium Run
+Es un Secreto-Plan B,2025-06-22,2025-07-04,13,37,41.53846153846154,2025-06-30,8,Plan B,album,False,192120,15,80,Medium Run
+Escriurem-Chiara Oliver & Martin Urrutia,2025-01-25,2025-01-25,1,47,47.0,2025-01-25,0,Chiara Oliver & Martin Urrutia,single,False,189146,1,56,Short Hit
+Espectacular-Sky Rompiendo & Rauw Alejandro,2025-04-25,2025-04-27,2,49,49.5,2025-04-25,0,Sky Rompiendo & Rauw Alejandro,single,False,185739,1,73,Short Hit
+Espresso Martini-Rauw Alejandro,2025-11-17,2025-11-21,5,21,35.2,2025-11-17,0,Rauw Alejandro,album,True,191219,18,67,Short Hit
+Espresso-Sabrina Carpenter,2025-06-09,2025-07-03,24,39,44.416666666666664,2025-06-28,19,Sabrina Carpenter,single,True,175459,1,95,Medium Run
+Europapa-Joost,2025-05-14,2025-05-18,5,33,40.6,2025-05-15,1,Joost,single,False,160218,2,82,Short Hit
+Eva Longoria-Ozuna,2024-08-12,2024-11-24,90,8,25.622222222222224,2024-08-29,17,Ozuna,album,False,199850,7,71,Long Runner
+Extasisssssss-Saiko,2024-12-20,2025-01-31,43,18,33.93023255813954,2024-12-22,2,Saiko,single,False,116666,2,57,Medium Run
+FANTASÍAS-Mora,2024-08-30,2024-09-04,6,9,26.666666666666668,2024-08-30,0,Mora,album,True,191847,15,0,Short Hit
+FARDOS-JC Reyes & De La Ghetto,2025-02-18,2025-07-30,160,1,14.8625,2025-02-22,4,JC Reyes & De La Ghetto,single,False,183335,1,59,Evergreen
+FERXXO 151-Feid,2024-09-30,2024-11-06,20,17,37.65,2024-09-30,0,Feid,album,False,195320,15,0,Medium Run
+FERXXO 151-Feid & ICON,2024-08-26,2024-09-29,35,9,35.4,2024-08-26,0,Feid & ICON,single,False,195653,1,0,Medium Run
+FERXXO 30-Feid,2024-10-07,2024-10-13,2,32,41.0,2024-10-07,0,Feid,album,False,173760,16,0,Short Hit
+FERXXO EDITION-Feid,2024-09-30,2024-10-01,2,43,43.0,2024-09-30,0,Feid,album,False,161746,15,0,Short Hit
+FINA-Bad Bunny,2024-10-14,2024-11-18,36,4,25.72222222222222,2024-10-14,0,Bad Bunny,album,True,216327,22,0,Medium Run
+FINALES DE AGOSTO-SAIKO,2025-04-28,2025-04-29,2,40,42.5,2025-04-28,0,SAIKO,album,False,177034,16,57,Short Hit
+"FLOWHOT (feat. Arcángel, De La Ghetto, Randy)-The Academy: Segunda Misión & Sech & Dalex",2025-03-31,2025-03-31,1,32,32.0,2025-03-31,0,The Academy: Segunda Misión & Sech & Dalex,album,True,233099,9,53,Short Hit
+FRIKI-Gonzy,2025-05-10,2025-11-26,198,8,18.328282828282827,2025-06-26,47,Gonzy,single,True,189066,1,69,Evergreen
+FRÍO-Myke Towers,2025-08-24,2025-08-24,1,36,36.0,2025-08-24,0,Myke Towers,album,True,160373,20,0,Short Hit
+Falsos Recuerdos-Abraham Mateo & Omar Montes,2025-02-01,2025-02-25,24,32,40.916666666666664,2025-02-08,7,Abraham Mateo & Omar Montes,single,False,191414,1,65,Medium Run
+Fecha - Intro Extended-Renzo Pianciola,2025-04-19,2025-04-20,2,46,46.5,2025-04-20,1,Renzo Pianciola,single,False,189802,1,0,Short Hit
+Fecha-Feid & Yandel,2025-04-14,2025-04-18,5,39,46.8,2025-04-17,3,Feid & Yandel,single,True,188600,5,68,Short Hit
+Feliz Navidad-José Feliciano,2024-12-25,2024-12-27,3,5,11.0,2024-12-25,0,José Feliciano,album,False,182066,15,88,Short Hit
+Feliz Navidad-Saiko,2024-12-19,2024-12-20,2,36,41.0,2024-12-19,0,Saiko,single,False,218282,3,55,Short Hit
+Figo-DELLAFUENTE & Morad,2024-12-02,2024-12-02,1,44,44.0,2024-12-02,0,DELLAFUENTE & Morad,single,False,184565,6,0,Short Hit
+Flow Violento - Remix-YoSoyPlex & Ruven,2024-05-30,2024-06-20,8,46,47.875,2024-06-06,7,YoSoyPlex & Ruven,single,True,166533,1,75,Short Hit
+Flowers-Miley Cyrus,2024-05-18,2024-06-06,18,44,46.55555555555556,2024-05-19,1,Miley Cyrus,album,False,200600,13,91,Medium Run
+Fortnight (feat. Post Malone)-Taylor Swift,2025-04-21,2025-04-30,9,24,33.666666666666664,2025-04-24,3,Taylor Swift,album,False,228965,16,85,Short Hit
+Fosforito-DELLAFUENTE,2025-06-16,2025-06-16,1,46,46.0,2025-06-16,0,DELLAFUENTE,album,False,178782,10,29,Short Hit
+Fruto-Bizarrap & Milo j,2024-10-07,2024-11-11,36,12,26.52777777777778,2024-10-12,5,Bizarrap & Milo j,single,False,132294,5,68,Medium Run
+"Fé, Cojones y Paciencia-Eladio Carrion",2025-01-21,2025-01-21,1,38,38.0,2025-01-21,0,Eladio Carrion,album,True,190243,17,66,Short Hit
+G-WA-ZHEUS,2025-11-21,2025-11-27,5,39,42.8,2025-11-23,2,ZHEUS,single,True,116107,1,57,Short Hit
+GANGSTER (PQFNEDG)-Ovy On The Drums & Quevedo & Yandel,2024-10-21,2024-11-01,12,15,34.833333333333336,2024-10-21,0,Ovy On The Drums & Quevedo & Yandel,single,True,215470,1,0,Medium Run
+GANGSTERS Y PISTOLAS-Feid,2024-09-30,2024-10-01,2,25,25.0,2024-09-30,0,Feid,album,False,170693,15,0,Short Hit
+GATITA GANGSTER-KAROL G,2024-09-13,2024-11-24,63,30,41.888888888888886,2024-10-12,29,KAROL G,album,True,170920,9,75,Long Runner
+GATITAS SANDUNGUERAS VOL.1-Alvaro Diaz,2025-05-19,2025-07-03,46,12,23.52173913043478,2025-06-12,24,Alvaro Diaz,album,False,131853,20,0,Medium Run
+GRACIAS POR NADA-Bad Bunny,2024-10-14,2024-10-20,7,11,28.428571428571427,2024-10-14,0,Bad Bunny,album,True,177450,22,0,Short Hit
+GRAN VÍA-Quevedo,2025-11-24,2025-11-27,4,1,1.0,2025-11-24,0,Quevedo,album,False,213528,18,66,Short Hit
+Gata Only (Mashup)-Dj Agus Lima,2025-05-09,2025-05-10,2,5,5.0,2025-05-09,0,Dj Agus Lima,album,False,215400,9,0,Short Hit
+Gata Only-FloyyMenor,2025-08-10,2025-10-14,55,15,37.70909090909091,2025-08-10,0,FloyyMenor,album,True,222000,7,7,Long Runner
+Gata Only-FloyyMenor & Cris Mj,2025-02-24,2025-08-09,162,2,6.748466257668712,2025-04-06,41,FloyyMenor & Cris Mj,single,True,222000,1,87,Evergreen
+Gitana (feat. Bryartz)-Pablo Chill-E,2025-05-03,2025-06-17,45,15,27.466666666666665,2025-05-17,14,Pablo Chill-E,album,True,221714,8,77,Medium Run
+Goteras-Omar Montes & JC Reyes,2025-06-30,2025-11-23,145,1,12.8,2025-07-08,8,Omar Montes & JC Reyes,single,False,216450,1,57,Long Runner
+Gran Día-Mau y Ricky & Guaynaa,2025-05-16,2025-06-01,13,17,37.92307692307692,2025-05-31,15,Mau y Ricky & Guaynaa,single,False,193840,1,60,Medium Run
+Guay-Ozuna & Bad Gyal,2025-04-21,2025-07-20,90,7,21.57777777777778,2025-04-27,6,Ozuna & Bad Gyal,single,False,210788,1,64,Long Runner
+HABLAME CLARO-Yandel,2025-10-13,2025-10-13,1,47,47.0,2025-10-13,0,Yandel,album,True,154969,19,45,Short Hit
+HABLAME CLARO-Yandel & Feid,2025-10-02,2025-10-12,11,12,35.09090909090909,2025-10-02,0,Yandel & Feid,single,True,154969,1,84,Medium Run
+HALO-Quevedo,2025-11-24,2025-11-27,4,7,7.5,2025-11-24,0,Quevedo,album,False,181261,18,63,Short Hit
+HAY LUPITA-Lomiiel,2025-07-12,2025-10-29,103,2,17.776699029126213,2025-08-04,23,Lomiiel,single,False,105836,1,77,Long Runner
+HEY BB-SAIKO,2025-04-28,2025-05-02,5,26,36.2,2025-04-28,0,SAIKO,album,False,163701,16,59,Short Hit
+HIBIKI-Bad Bunny,2024-10-14,2024-12-01,49,2,21.6734693877551,2024-10-14,0,Bad Bunny,album,True,208000,22,0,Medium Run
+Hablame Claro-Yandel & Feid,2025-09-16,2025-10-01,16,5,15.75,2025-09-25,9,Yandel & Feid,single,True,154969,1,70,Medium Run
+Hala Madrid ...y nada más-Real Madrid,2025-06-03,2025-06-03,1,43,43.0,2025-06-03,0,Real Madrid,single,False,177000,1,60,Short Hit
+Hardaway-Duki,2025-11-03,2025-11-03,1,35,35.0,2025-11-03,0,Duki,album,True,216432,15,62,Short Hit
+Hasta Olvidarte-Mau y Ricky,2025-06-03,2025-06-08,6,23,29.166666666666668,2025-06-04,1,Mau y Ricky,album,False,188862,15,60,Short Hit
+Hay Lupita-Megan Koffe,2025-06-28,2025-07-10,13,30,35.07692307692308,2025-07-08,10,Megan Koffe,single,True,108855,1,55,Medium Run
+Headshot-Anuel AA,2025-09-22,2025-09-22,1,29,29.0,2025-09-22,0,Anuel AA,single,True,409259,1,61,Short Hit
+Heavy Is the Crown-Linkin Park,2025-09-27,2025-09-27,1,49,49.0,2025-09-27,0,Linkin Park,single,False,167012,2,78,Short Hit
+Heavyweight-Eladio Carrion,2025-05-04,2025-05-04,1,49,49.0,2025-05-04,0,Eladio Carrion,single,True,164776,5,62,Short Hit
+Hermosa Casualidad-Sen Senra & Aitana,2025-06-02,2025-06-09,6,39,43.666666666666664,2025-06-06,4,Sen Senra & Aitana,single,False,205779,1,34,Short Hit
+Hey Lil Mama-Eladio Carrion,2025-01-21,2025-04-13,78,8,28.189873417721518,2025-01-25,4,Eladio Carrion,album,False,216338,17,69,Long Runner
+Hey Mor-Ozuna,2024-05-18,2024-09-12,97,30,40.01030927835052,2024-05-18,0,Ozuna,album,False,196600,18,91,Long Runner
+Historias Por Contar-Operación Triunfo 2023,2025-02-22,2025-02-24,3,28,39.0,2025-02-22,0,Operación Triunfo 2023,single,False,192042,1,57,Short Hit
+Holanda-Jhayco,2024-08-04,2025-03-12,218,3,21.775229357798164,2024-08-16,12,Jhayco,single,True,231693,1,73,Evergreen
+Holly Jolly Christmas-Michael Bublé,2024-12-25,2024-12-27,3,24,38.0,2024-12-25,0,Michael Bublé,album,False,119786,16,83,Short Hit
+Houdini-Dua Lipa,2024-11-11,2024-11-17,7,23,40.285714285714285,2024-11-11,0,Dua Lipa,single,False,185917,1,58,Short Hit
+Hoy-Valentino Merlo & The La Planta,2025-09-29,2025-10-04,6,13,15.166666666666666,2025-10-02,3,Valentino Merlo & The La Planta,single,False,198495,1,83,Short Hit
+I Can Do It With a Broken Heart-Taylor Swift,2025-04-23,2025-04-23,1,50,50.0,2025-04-23,0,Taylor Swift,album,True,218004,16,82,Short Hit
+IA-Clarent,2025-10-20,2025-11-12,24,1,4.166666666666667,2025-11-09,20,Clarent,single,True,171428,1,57,Medium Run
+IA-Clarent & Mora,2025-11-13,2025-11-27,15,1,4.133333333333334,2025-11-13,0,Clarent & Mora,single,True,240000,1,79,Medium Run
+IGUALES-Quevedo,2025-11-24,2025-11-27,4,3,3.5,2025-11-24,0,Quevedo,album,False,183316,18,66,Short Hit
+IL Capo-Rauw Alejandro,2025-11-17,2025-11-17,1,38,38.0,2025-11-17,0,Rauw Alejandro,album,True,249599,18,65,Short Hit
+Imagínate-Danny Ocean & Kapo,2025-11-15,2025-11-27,13,15,32.30769230769231,2025-11-23,8,Danny Ocean & Kapo,single,True,170365,1,70,Medium Run
+Imperio-Duki,2025-11-03,2025-11-23,19,15,28.94736842105263,2025-11-09,6,Duki,album,True,168711,15,62,Medium Run
+It's Beginning to Look a Lot like Christmas-Michael Bublé,2024-12-25,2024-12-27,3,16,24.0,2024-12-25,0,Michael Bublé,album,False,207199,21,87,Short Hit
+It's the Most Wonderful Time of the Year-Andy Williams,2024-12-25,2024-12-27,3,12,20.0,2024-12-25,0,Andy Williams,album,False,151000,12,79,Short Hit
+"Japoni (Feat. Camin, Moncho Chavea, Jthyago & Samueliyo Baby)-Oscar el Ruso & Samuel G & Omar Montes",2025-05-05,2025-06-17,11,45,47.72727272727273,2025-06-03,29,Oscar el Ruso & Samuel G & Omar Montes,single,False,248010,1,68,Medium Run
+"Japoni (feat. Camin, Moncho Chavea, Jthyago & Samueliyo Baby)-Oscar el Ruso & Samuel G & Omar Montes",2025-01-18,2025-04-01,60,26,35.916666666666664,2025-02-25,38,Oscar el Ruso & Samuel G & Omar Montes,single,False,248004,1,68,Long Runner
+Jingle Bell Rock-Bobby Helms,2024-12-25,2024-12-27,3,10,16.666666666666668,2024-12-25,0,Bobby Helms,single,False,130973,2,94,Short Hit
+K-POP-Travis Scott & Bad Bunny & The Weeknd,2024-07-23,2024-08-05,14,21,33.857142857142854,2024-07-23,0,Travis Scott & Bad Bunny & The Weeknd,single,True,185220,1,82,Medium Run
+KASSANDRA-Quevedo,2025-11-24,2025-11-27,4,2,2.0,2025-11-24,0,Quevedo,album,False,183172,18,66,Short Hit
+KTM-Jhayco & Bryant Myers & Luar La L,2025-03-24,2025-03-28,4,16,41.25,2025-03-24,0,Jhayco & Bryant Myers & Luar La L,single,True,366760,1,0,Short Hit
+Khé?-Rauw Alejandro,2025-11-17,2025-11-27,11,8,14.090909090909092,2025-11-23,6,Rauw Alejandro,album,False,206066,18,67,Medium Run
+LA 125-Quevedo,2025-11-24,2025-11-27,4,10,18.25,2025-11-24,0,Quevedo,album,False,194286,18,62,Short Hit
+LA BABY-Tainy,2024-07-02,2024-07-12,11,25,42.27272727272727,2024-07-02,0,Tainy,album,False,182857,19,67,Medium Run
+LA CAPI-Myke Towers,2024-12-14,2025-09-25,233,13,30.128205128205128,2025-01-22,39,Myke Towers,album,True,202360,23,72,Evergreen
+LA FALDA-Myke Towers,2024-11-25,2025-11-23,359,1,13.225626740947074,2025-02-18,85,Myke Towers,album,True,174229,23,0,Evergreen
+LA INOCENTE-Mora,2024-05-30,2024-08-11,31,45,48.225806451612904,2024-06-21,22,Mora,album,True,202173,15,88,Medium Run
+LA MARINA STA MORENA-Figa Flawas,2025-08-07,2025-10-15,69,19,30.27536231884058,2025-09-04,28,Figa Flawas,single,False,131332,1,65,Long Runner
+LA NENA-Lyanno & Rauw Alejandro,2025-04-21,2025-05-25,27,25,38.925925925925924,2025-04-27,6,Lyanno & Rauw Alejandro,single,True,200040,1,74,Medium Run
+LA RANGER (feat. Myke Towers)-The Academy: Segunda Misión & Justin Quiles & Lenny Tavárez,2025-03-31,2025-07-16,107,3,20.85981308411215,2025-04-11,11,The Academy: Segunda Misión & Justin Quiles & Lenny Tavárez,album,True,229738,9,64,Long Runner
+LA REINA-Lola Indigo,2025-06-16,2025-11-26,162,4,10.753086419753087,2025-06-20,4,Lola Indigo,single,False,150000,1,29,Evergreen
+LA RIJANA-SAIKO,2025-04-28,2025-04-29,2,41,44.0,2025-04-28,0,SAIKO,album,False,137172,16,57,Short Hit
+LA SEVILLANA - SEVILLANAS-Omar Montes,2025-05-05,2025-07-03,60,8,25.2,2025-05-05,0,Omar Montes,single,False,220346,1,77,Long Runner
+LA SEVILLANA-Omar Montes,2025-04-14,2025-05-04,21,3,7.9523809523809526,2025-04-20,6,Omar Montes,single,False,220346,1,59,Medium Run
+LA VUELTA-Feid,2024-12-02,2024-12-02,1,48,48.0,2024-12-02,0,Feid,album,False,121920,10,0,Short Hit
+LA ÚLTIMA-Quevedo,2025-02-03,2025-03-23,48,1,16.285714285714285,2025-02-03,0,Quevedo,single,False,170322,1,72,Medium Run
+LAGUNA-Mora,2024-08-30,2024-09-02,4,11,21.5,2024-08-30,0,Mora,album,True,246593,15,0,Short Hit
+LALA-Myke Towers,2024-06-29,2025-09-24,309,1,19.870550161812297,2024-07-05,6,Myke Towers,album,True,197920,23,78,Evergreen
+LAS BABYS-Aitana,2024-06-09,2024-08-29,82,4,23.073170731707318,2024-06-11,2,Aitana,single,False,153827,1,63,Long Runner
+LATTE (feat. Maria Becerra)-The Academy: Segunda Misión & Sech & Dalex,2025-03-31,2025-03-31,1,43,43.0,2025-03-31,0,The Academy: Segunda Misión & Sech & Dalex,album,True,260534,9,53,Short Hit
+LOKITA-Mora,2024-08-30,2024-09-02,4,13,28.75,2024-08-30,0,Mora,album,True,154154,15,0,Short Hit
+LOS DÍAS CONTADOS-Quevedo,2025-11-24,2025-11-27,4,4,5.25,2025-11-24,0,Quevedo,album,False,161943,18,64,Short Hit
+LOS PITS-Bad Bunny,2024-10-14,2024-10-20,7,20,33.857142857142854,2024-10-14,0,Bad Bunny,album,True,250851,22,0,Short Hit
+LUCES DE TECNO-Feid,2024-09-30,2025-02-03,124,7,32.145161290322584,2024-09-30,0,Feid,album,False,163786,15,0,Long Runner
+LUNA-Feid,2024-12-02,2025-11-27,357,2,11.599439775910364,2025-01-11,40,Feid,album,False,196800,10,0,Evergreen
+LUNA-SAIKO,2025-04-28,2025-05-09,12,9,28.25,2025-04-28,0,SAIKO,album,False,240923,16,61,Medium Run
+LUNCH-Billie Eilish,2025-05-19,2025-05-30,12,20,34.333333333333336,2025-05-25,6,Billie Eilish,album,False,179586,10,62,Medium Run
+La Baby-Brytiago,2024-11-03,2024-12-02,16,3,31.3125,2024-11-30,27,Brytiago,single,True,161333,1,55,Medium Run
+La Bachata-Manuel Turizo,2024-05-18,2025-11-19,537,11,26.75046554934823,2025-01-01,228,Manuel Turizo,album,False,162637,15,86,Evergreen
+La Bebe - Remix-Yng Lvcas & Peso Pluma,2024-05-18,2024-08-29,104,10,27.39423076923077,2024-06-01,14,Yng Lvcas & Peso Pluma,single,True,234352,2,99,Long Runner
+La Canción Feliz Del Disco-Eladio Carrion,2025-01-21,2025-01-24,4,13,39.0,2025-01-21,0,Eladio Carrion,album,True,173524,17,69,Short Hit
+La Fiesta-Pedro Capó,2024-05-18,2024-06-27,17,30,44.88235294117647,2024-05-20,2,Pedro Capó,album,False,201044,10,71,Medium Run
+La Gata Bajo La Lluvia-Naiara,2025-01-25,2025-01-25,1,46,46.0,2025-01-25,0,Naiara,single,False,164678,1,55,Short Hit
+La Jumpa-Arcángel,2024-05-18,2024-06-23,37,36,42.027027027027025,2024-05-29,11,Arcángel,album,True,255693,18,87,Medium Run
+La Rizos [Dime Si Le Comento a la Pura]-Las 2K & Chardo Chardemio & Melody Records International,2025-08-25,2025-11-06,69,22,31.17391304347826,2025-09-15,21,Las 2K & Chardo Chardemio & Melody Records International,single,False,218119,1,68,Long Runner
+La Torre Picasso-Arde Bogotá,2025-09-15,2025-09-15,1,46,46.0,2025-09-15,0,Arde Bogotá,single,False,484573,1,50,Short Hit
+La Vida Sin Ti-Rels B,2025-04-28,2025-06-29,63,8,24.793650793650794,2025-05-02,4,Rels B,album,False,164470,13,65,Long Runner
+La Vida Sin Ti-Rels B & Lia Kali,2025-04-25,2025-04-27,3,15,19.333333333333332,2025-04-25,0,Rels B & Lia Kali,single,False,164470,1,58,Short Hit
+La roja baila - Himno oficial de la selección española-Sergio Ramos & Niña Pastori & RedOne,2025-07-15,2025-07-16,2,9,9.0,2025-07-15,0,Sergio Ramos & Niña Pastori & RedOne,single,False,235384,1,56,Short Hit
+La_Original.mp3-Emilia,2024-11-04,2025-06-03,202,10,26.527093596059114,2025-03-08,124,Emilia,album,False,140625,13,0,Evergreen
+Las Bratz (Remix)-Aissa & JC Reyes & Saiko,2024-05-18,2024-05-27,10,44,46.9,2024-05-20,2,Aissa & JC Reyes & Saiko,single,True,444631,1,76,Short Hit
+Last Christmas - Single Version-Wham!,2024-12-23,2024-12-27,5,4,19.0,2024-12-25,2,Wham!,album,False,265960,16,89,Short Hit
+Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet)-Frank Sinatra,2024-12-25,2024-12-25,1,33,33.0,2024-12-25,0,Frank Sinatra,album,False,155453,14,91,Short Hit
+Let It Snow! Let It Snow! Let It Snow!-Dean Martin,2024-12-25,2024-12-27,3,15,23.0,2024-12-25,0,Dean Martin,album,False,117146,12,95,Short Hit
+Like I Can (feat. Aitana)-Sam Smith & Aitana,2025-08-10,2025-08-10,1,42,42.0,2025-08-10,0,Sam Smith & Aitana,single,False,166707,1,38,Short Hit
+Lo Que Tiene-Morad & Beny Jr & Rvfv,2025-03-10,2025-11-23,254,5,25.62204724409449,2025-03-13,3,Morad & Beny Jr & Rvfv,single,False,259200,1,61,Evergreen
+Lo que no ves de mí-Juanjo Bona,2025-04-18,2025-04-18,1,38,38.0,2025-04-18,0,Juanjo Bona,single,False,144000,1,69,Short Hit
+Lollipop-Darell,2024-10-02,2025-01-17,105,1,21.695238095238096,2024-10-21,19,Darell,album,True,199946,18,64,Long Runner
+Los del Espacio-LIT killah,2024-06-04,2025-02-16,257,2,21.56420233463035,2024-06-09,5,LIT killah,single,False,338000,1,72,Evergreen
+Los Ángeles-Aitana,2024-05-18,2024-08-05,80,20,34.1125,2024-05-18,0,Aitana,single,False,158483,1,84,Long Runner
+Luchas Mentales-Eladio Carrion,2025-01-21,2025-01-21,1,43,43.0,2025-01-21,0,Eladio Carrion,album,False,166835,17,66,Short Hit
+Luna llena-Beny Jr,2025-07-31,2025-11-27,119,4,11.084033613445378,2025-10-14,75,Beny Jr,album,False,169846,13,69,Long Runner
+M.A.I-Milo j,2025-01-17,2025-04-30,100,4,16.32,2025-01-31,14,Milo j,album,False,184027,9,82,Long Runner
+MALA SUERTE-Lola Indigo & DELLAFUENTE,2024-09-03,2024-09-09,7,32,36.42857142857143,2024-09-06,3,Lola Indigo & DELLAFUENTE,single,False,215142,1,59,Short Hit
+MAREA-Mora,2024-08-30,2024-08-31,2,24,36.5,2024-08-30,0,Mora,album,True,148082,15,0,Short Hit
+MEDIA LUNA-Mora,2024-08-30,2024-09-21,14,5,36.785714285714285,2024-08-30,0,Mora,album,False,134948,15,0,Medium Run
+MEJOR ASÍ-Myke Towers,2025-08-24,2025-08-24,1,37,37.0,2025-08-24,0,Myke Towers,album,True,219480,20,0,Short Hit
+MEMORIAS-Mora,2024-05-18,2024-05-27,10,39,42.1,2024-05-23,5,Mora,album,False,228750,15,82,Short Hit
+MERCEDES CAROTA-Bad Bunny,2024-10-14,2024-10-21,8,17,32.875,2024-10-14,0,Bad Bunny,album,True,202635,22,0,Short Hit
+MERCHO-LiL CaKe & Migrantes,2024-05-18,2024-08-29,104,21,32.19230769230769,2024-05-29,11,LiL CaKe & Migrantes,single,False,161451,1,90,Long Runner
+MI DROGA-Myke Towers,2024-05-18,2024-05-20,3,46,48.666666666666664,2024-05-18,0,Myke Towers,album,True,163240,23,81,Short Hit
+MI EX TENÍA RAZÓN-KAROL G,2024-08-13,2025-07-31,22,16,36.59090909090909,2024-08-13,0,KAROL G,album,False,154374,9,62,Medium Run
+MIENTRAS ME CURO DEL CORA-KAROL G,2025-07-24,2025-08-02,10,37,44.9,2025-07-28,4,KAROL G,album,False,164386,17,81,Short Hit
+MODELITO-Mora,2024-09-09,2025-06-17,279,4,21.725,2024-11-12,64,Mora,album,True,190496,14,80,Evergreen
+MOJABI GHOST-Tainy,2024-07-02,2024-08-03,33,6,30.939393939393938,2024-07-02,0,Tainy,album,True,232131,19,78,Medium Run
+MONACO-Bad Bunny,2024-10-14,2025-01-12,78,1,23.67948717948718,2024-10-14,0,Bad Bunny,album,True,267194,22,0,Long Runner
+MR. MOONDIAL-Quevedo,2025-11-24,2025-11-27,4,5,5.5,2025-11-25,1,Quevedo,album,False,165762,18,63,Short Hit
+MR. OCTOBER-Bad Bunny,2024-10-14,2024-10-21,8,7,23.875,2024-10-14,0,Bad Bunny,album,True,189258,22,0,Short Hit
+Ma Meilleure Ennemie (from the series Arcane League of Legends)-Stromae & Pomme & Arcane,2025-11-27,2025-11-27,1,38,38.0,2025-11-27,0,Stromae & Pomme & Arcane,single,False,147973,1,77,Short Hit
+Madrid City-Ana Mena,2024-09-30,2025-04-15,181,13,27.45054945054945,2025-01-03,95,Ana Mena,single,False,172727,1,0,Evergreen
+Mal de amores-Natos y Waor & Israel B,2025-02-11,2025-02-17,4,29,37.75,2025-02-15,4,Natos y Waor & Israel B,single,False,255071,1,56,Short Hit
+Malicia-DELLAFUENTE,2025-06-16,2025-06-21,6,29,42.166666666666664,2025-06-16,0,DELLAFUENTE,album,False,177500,10,25,Short Hit
+Mama's Boy-Eladio Carrion,2025-01-21,2025-01-21,1,34,34.0,2025-01-21,0,Eladio Carrion,album,False,222272,17,66,Short Hit
+Mamasota-Manuel Turizo & Yandel,2025-03-15,2025-03-15,1,50,50.0,2025-03-15,0,Manuel Turizo & Yandel,single,False,216424,1,78,Short Hit
+Mami Chula-Jhayco & Quevedo,2024-05-18,2024-09-18,118,6,35.813559322033896,2024-05-18,0,Jhayco & Quevedo,single,False,220600,1,85,Long Runner
+Mamichula - con Nicki Nicole-Trueno,2025-02-18,2025-04-05,44,7,27.272727272727273,2025-03-04,14,Trueno,album,False,219201,10,83,Medium Run
+Manos Rotas-DELLAFUENTE & Morad,2024-11-18,2025-11-23,329,1,23.595744680851062,2024-11-29,11,DELLAFUENTE & Morad,single,False,168594,1,44,Evergreen
+Maquillaje - Remix-Renn & Myke Towers & Nio Garcia,2025-07-10,2025-07-14,4,25,30.0,2025-07-14,4,Renn & Myke Towers & Nio Garcia,single,True,286283,1,75,Short Hit
+Maquillaje - Remix-refracted arg,2025-04-21,2025-04-24,4,32,34.5,2025-04-21,0,refracted arg,album,False,207342,7,0,Short Hit
+Maquillaje-Renn & Yexel,2025-03-21,2025-06-02,65,18,31.646153846153847,2025-04-08,18,Renn & Yexel,single,True,211969,1,2,Long Runner
+Martini-Dei V,2025-05-02,2025-11-23,150,7,32.806666666666665,2025-06-17,46,Dei V,single,True,164365,1,65,Long Runner
+Me has invitado a bailar-Dani Fernández,2025-09-04,2025-11-27,85,15,27.458823529411763,2025-10-31,57,Dani Fernández,single,False,192906,1,63,Long Runner
+Mencionar-Eladio Carrion,2025-01-21,2025-01-21,1,42,42.0,2025-01-21,0,Eladio Carrion,album,False,141818,17,66,Short Hit
+Mi Cuarto-Tiago PZK & Rels B,2025-10-27,2025-10-27,1,46,46.0,2025-10-27,0,Tiago PZK & Rels B,single,False,131688,1,58,Short Hit
+Mi Lova-Bad Gyal & Myke Towers,2024-07-09,2024-08-18,41,14,36.707317073170735,2024-07-09,0,Bad Gyal & Myke Towers,single,True,220173,1,0,Medium Run
+Mi Luz (ft. Rels B)-Rvfv,2024-10-23,2025-10-18,172,32,45.395348837209305,2025-10-11,353,Rvfv,album,False,168000,15,80,Evergreen
+Mi Nena Remix-Maikel Delacalle & Quevedo,2024-05-18,2024-06-10,24,26,31.75,2024-05-19,1,Maikel Delacalle & Quevedo,single,False,220000,1,82,Medium Run
+Mil Mujeres-Rauw Alejandro,2025-11-17,2025-11-17,1,36,36.0,2025-11-17,0,Rauw Alejandro,album,True,168922,18,65,Short Hit
+"Milo J: Bzrp Music Sessions, Vol. 57-Bizarrap & Milo j",2024-10-07,2025-02-10,59,1,28.88135593220339,2024-10-07,0,Bizarrap & Milo j,single,False,189901,1,74,Long Runner
+"Milo J: Bzrp Music Sessions, Vol. 57-Paul Thin",2025-02-01,2025-02-02,2,39,44.5,2025-02-01,0,Paul Thin,single,False,153024,1,56,Short Hit
+Mirame-Blessd & Ovy On The Drums,2025-07-15,2025-07-30,16,13,28.875,2025-07-19,4,Blessd & Ovy On The Drums,single,True,157453,1,84,Medium Run
+Mis Tías-Juanjo Bona,2025-07-21,2025-07-23,2,44,45.5,2025-07-21,0,Juanjo Bona,single,False,158400,1,58,Short Hit
+My Love-De La Ghetto & Quevedo,2024-06-04,2024-07-01,27,36,41.7037037037037,2024-06-15,11,De La Ghetto & Quevedo,single,False,214123,1,60,Medium Run
+NADIE SABE-Bad Bunny,2024-10-14,2024-10-28,15,3,26.666666666666668,2024-10-14,0,Bad Bunny,album,True,379058,22,0,Medium Run
+NANA DEL HILO ROJO-SAIKO,2025-04-28,2025-05-02,5,16,27.0,2025-04-28,0,SAIKO,album,False,163893,16,61,Short Hit
+NO ME QUIERO CASAR-Bad Bunny,2024-10-14,2024-10-19,6,22,32.333333333333336,2024-10-14,0,Bad Bunny,album,True,225654,22,0,Short Hit
+NO PIENSO LLAMAR-Soge Culebra,2024-10-14,2025-03-02,139,7,23.8705035971223,2024-12-23,70,Soge Culebra,album,False,198352,13,0,Long Runner
+NO PIENSO LLAMAR-Soge Culebra & Quevedo & GARABATTO,2024-10-07,2024-10-13,7,16,18.714285714285715,2024-10-07,0,Soge Culebra & Quevedo & GARABATTO,single,False,198352,1,43,Short Hit
+NOEMÚ-Quevedo,2025-11-24,2025-11-27,4,15,22.5,2025-11-24,0,Quevedo,album,False,206910,18,61,Short Hit
+Narcotics (with Bryant Myers)-Dei V & Bryant Myers,2024-10-04,2025-06-11,188,15,25.582010582010582,2024-12-28,85,Dei V & Bryant Myers,single,True,173991,1,75,Evergreen
+"Natanael Cano: Bzrp Music Sessions, Vol. 59-Bizarrap & Natanael Cano",2025-04-06,2025-04-13,8,32,39.625,2025-04-07,1,Bizarrap & Natanael Cano,single,True,155888,1,70,Short Hit
+New Woman (feat. ROSALÍA)-LISA & ROSALÍA,2025-08-17,2025-08-30,14,15,32.0,2025-08-17,0,LISA & ROSALÍA,single,False,179789,1,0,Medium Run
+Ni Me Conozco-Rauw Alejandro,2025-11-17,2025-11-22,6,26,37.5,2025-11-17,0,Rauw Alejandro,album,True,229787,18,66,Short Hit
+Niña Bonita-Feid & Sean Paul,2024-05-18,2024-08-08,83,13,34.44578313253012,2024-05-19,1,Feid & Sean Paul,single,False,187653,1,88,Long Runner
+No Digas Na-Feid & Yandel,2025-04-17,2025-04-20,4,48,48.75,2025-04-18,1,Feid & Yandel,single,False,208386,5,71,Short Hit
+No Estuviste En Lo Malo - REMIX-Morad & Beny Jr & DELLAFUENTE,2024-10-07,2025-01-31,112,12,38.589285714285715,2024-10-07,0,Morad & Beny Jr & DELLAFUENTE,single,False,268320,1,63,Long Runner
+No Estuviste En Lo Malo-Morad,2024-05-18,2024-06-23,11,46,48.36363636363637,2024-05-31,13,Morad,album,False,247680,19,67,Medium Run
+No Has Cambiado-Baby Rasta & Noriel & Hades66,2025-10-13,2025-11-27,24,11,32.125,2025-10-15,2,Baby Rasta & Noriel & Hades66,single,True,276404,1,64,Medium Run
+No Te Quieren Conmigo - Remix-Gaby Music & Anuel AA & Luar La L,2025-04-07,2025-04-27,21,17,34.857142857142854,2025-04-07,0,Gaby Music & Anuel AA & Luar La L,single,False,328226,1,62,Medium Run
+No Te Quieren Conmigo-Gaby Music & Lunay & Luar La L,2024-12-20,2025-04-10,110,4,11.854545454545455,2025-01-10,21,Gaby Music & Lunay & Luar La L,single,False,252040,1,67,Long Runner
+No soy Eterno-Bizarrap & Milo j,2024-10-07,2024-10-13,7,27,35.0,2024-10-10,3,Bizarrap & Milo j,single,False,151468,5,67,Short Hit
+No_Se_Ve.mp3-Emilia,2024-11-04,2025-02-09,75,32,43.76,2024-11-05,1,Emilia,album,False,203636,13,0,Long Runner
+No_se_ve.mp3-Emilia & LUDMILLA & ZECCA,2024-06-08,2024-11-03,134,13,22.26865671641791,2024-08-25,78,Emilia & LUDMILLA & ZECCA,single,True,203636,1,83,Long Runner
+Nochentera-Vicco,2024-05-18,2025-01-09,156,9,20.775641025641026,2024-05-27,9,Vicco,single,False,202184,1,81,Evergreen
+Nueva Era-Duki,2025-11-03,2025-11-27,25,3,10.32,2025-11-08,5,Duki,album,True,217547,15,66,Medium Run
+NÚMERO TELEFÓNICO-SAIKO,2025-04-28,2025-05-09,12,14,31.666666666666668,2025-04-28,0,SAIKO,album,True,190000,16,61,Medium Run
+OA-Anuel AA & Quevedo & Maluma,2024-10-16,2025-04-27,191,3,21.0,2024-11-11,26,Anuel AA & Quevedo & Maluma,single,True,235200,1,72,Evergreen
+OBVIO-Myke Towers,2024-11-25,2024-11-25,1,25,25.0,2024-11-25,0,Myke Towers,album,True,162447,23,0,Short Hit
+OTRA NOCHE (feat. Darell)-Myke Towers,2025-08-24,2025-11-16,85,11,22.976470588235294,2025-09-07,14,Myke Towers,album,True,224120,20,0,Long Runner
+OTRA NOCHE-Myke Towers & Darell,2025-08-20,2025-08-23,4,36,39.25,2025-08-23,3,Myke Towers & Darell,single,True,224120,1,64,Short Hit
+OTRA OPORTUNIDAD-Myke Towers,2025-08-24,2025-08-24,1,25,25.0,2025-08-24,0,Myke Towers,album,True,169026,20,0,Short Hit
+OTRO ROUND-Myke Towers,2024-11-25,2024-11-25,1,50,50.0,2024-11-25,0,Myke Towers,album,True,134131,23,0,Short Hit
+Ohnana-Kapo,2025-07-04,2025-11-27,145,2,8.889655172413793,2025-08-01,28,Kapo,single,False,156577,1,71,Long Runner
+Omega (feat. Ralphie Choo)-ROSALÍA,2025-09-27,2025-10-10,14,3,25.285714285714285,2025-09-27,0,ROSALÍA,single,False,169500,1,63,Medium Run
+Orgullosa De Papá-Cano,2025-11-01,2025-11-23,6,45,47.166666666666664,2025-11-16,15,Cano,album,False,174174,10,50,Short Hit
+Oye BB-Omar Montes & Nicky Jam,2024-11-11,2024-11-11,1,43,43.0,2024-11-11,0,Omar Montes & Nicky Jam,single,False,147662,1,25,Short Hit
+PA' LA VUELTA-Eladio Carrion & Morad,2024-08-06,2024-08-06,1,49,49.0,2024-08-06,0,Eladio Carrion & Morad,single,True,224041,1,62,Short Hit
+PASAJERO-Mora,2024-08-30,2024-10-13,45,4,27.77777777777778,2024-08-30,0,Mora,album,False,149538,15,0,Medium Run
+PASIEMPRE-Tainy,2024-07-02,2024-07-20,19,21,34.0,2024-07-05,3,Tainy,album,True,355795,19,73,Medium Run
+PELIGROSA-FloyyMenor,2025-07-31,2025-11-27,119,3,13.588235294117647,2025-09-08,39,FloyyMenor,single,True,134930,1,77,Long Runner
+PERREO LENTO-Chris Jedi & Gaby Music & Dei V,2025-03-02,2025-03-29,26,28,36.03846153846154,2025-03-07,5,Chris Jedi & Gaby Music & Dei V,single,True,156640,5,73,Medium Run
+PERRO NEGRO-Bad Bunny,2024-10-14,2025-05-31,195,2,11.408163265306122,2024-10-17,3,Bad Bunny,album,True,162767,22,0,Evergreen
+PERROS&GATA$-Nicki Nicole & SAIKO,2025-07-04,2025-07-07,4,45,46.5,2025-07-04,0,Nicki Nicole & SAIKO,single,False,179612,1,65,Short Hit
+PIDE-Mora,2024-08-30,2024-09-02,4,15,34.25,2024-08-30,0,Mora,album,True,207903,15,0,Short Hit
+PIRIBIRI-JC Reyes & Pedro Calderon,2024-08-09,2024-09-29,41,37,45.21951219512195,2024-09-17,39,JC Reyes & Pedro Calderon,single,False,176727,1,72,Medium Run
+PLAYA DEL INGLÉS-Quevedo,2024-05-18,2024-12-12,159,15,24.31446540880503,2024-05-18,0,Quevedo,album,False,237525,16,84,Evergreen
+POLARIS - Remix-SAIKO,2025-04-28,2025-05-09,12,31,40.833333333333336,2025-04-29,1,SAIKO,album,True,288000,16,53,Medium Run
+POLARIS - Remix-SAIKO & Feid & Quevedo,2025-03-02,2025-04-20,48,31,37.291666666666664,2025-04-01,30,SAIKO & Feid & Quevedo,single,True,288000,1,83,Medium Run
+POLARIS - Remix-Saiko & Feid & Quevedo,2024-06-11,2025-02-28,263,1,13.34980988593156,2024-06-11,0,Saiko & Feid & Quevedo,single,True,288000,1,74,Evergreen
+POR ATRÁS-Quevedo,2025-11-24,2025-11-27,4,11,16.75,2025-11-24,0,Quevedo,album,False,171685,18,62,Short Hit
+PRIVILEGIOS-Feid,2024-09-30,2024-10-01,2,46,46.0,2024-09-30,0,Feid,album,False,185840,15,0,Short Hit
+PROVENZA-KAROL G,2025-07-25,2025-07-30,6,45,47.333333333333336,2025-07-26,1,KAROL G,album,False,207626,17,82,Short Hit
+PUNTO G-Quevedo,2024-05-18,2025-01-13,162,23,40.611111111111114,2024-05-30,12,Quevedo,album,False,151324,16,86,Evergreen
+Pacto (feat. Bryant Myers & Dei V) - Remix-Jay Wheeler & Anuel AA & Hades66,2024-07-29,2024-10-06,66,20,37.06060606060606,2024-08-19,21,Jay Wheeler & Anuel AA & Hades66,single,True,346000,1,0,Long Runner
+Pacto (feat. Luar La L)-Jay Wheeler,2024-06-01,2024-07-01,31,38,43.774193548387096,2024-06-22,21,Jay Wheeler,album,True,284021,9,69,Medium Run
+Pasaporte-Rauw Alejandro,2025-11-17,2025-11-17,1,43,43.0,2025-11-17,0,Rauw Alejandro,album,False,263451,18,64,Short Hit
+Pasaporte-Rauw Alejandro & Mr. Naisgai,2025-09-29,2025-09-29,1,49,49.0,2025-09-29,0,Rauw Alejandro & Mr. Naisgai,single,False,266787,1,63,Short Hit
+Passoa-JHAYCO,2025-09-08,2025-09-27,20,27,34.4,2025-09-08,0,JHAYCO,album,False,309280,29,53,Medium Run
+Passoa-JHAYCO & Kapo,2025-08-17,2025-09-07,20,19,35.15,2025-08-26,9,JHAYCO & Kapo,single,False,309280,1,70,Medium Run
+Paz-Morad,2024-05-18,2024-05-20,3,44,46.0,2024-05-18,0,Morad,album,False,186000,19,63,Short Hit
+Pedro-Jaxomy & Agatino Romero & Raffaella Carrà,2025-04-14,2025-05-21,35,14,33.628571428571426,2025-04-21,7,Jaxomy & Agatino Romero & Raffaella Carrà,single,False,144846,1,77,Medium Run
+Penas de Antaño-Bizarrap & Milo j,2024-10-09,2024-10-12,4,44,46.5,2024-10-10,1,Bizarrap & Milo j,single,False,201272,5,74,Short Hit
+Perdió Este Culo-Bad Gyal,2025-01-28,2025-02-24,28,18,37.142857142857146,2025-01-31,3,Bad Gyal,album,True,159253,15,62,Medium Run
+"Peso Pluma: Bzrp Music Sessions, Vol. 55-Bizarrap & Peso Pluma",2024-06-03,2024-07-01,29,2,18.20689655172414,2024-06-03,0,Bizarrap & Peso Pluma,single,True,188361,1,82,Medium Run
+Please Please Please-Sabrina Carpenter,2025-06-12,2025-06-20,9,33,39.333333333333336,2025-06-18,6,Sabrina Carpenter,single,True,186365,2,83,Short Hit
+Polaris-Saiko,2024-05-18,2024-06-11,25,22,36.16,2024-06-10,23,Saiko,single,True,192122,3,78,Medium Run
+Potra Salvaje - Hard Remix-Isabel Aaiún & Fernando Moreno,2025-05-29,2025-09-24,114,3,13.991228070175438,2025-06-18,20,Isabel Aaiún & Fernando Moreno,single,False,342000,1,62,Long Runner
+Potra Salvaje-Isabel Aaiún,2025-07-07,2025-08-28,50,14,35.26,2025-07-18,11,Isabel Aaiún,album,False,199624,10,59,Medium Run
+Probemas Mentales-JZAEB & Eix,2025-03-07,2025-03-07,1,48,48.0,2025-03-07,0,JZAEB & Eix,single,True,229151,1,55,Short Hit
+Problemas Mentales-JZAEB & Eix,2025-03-20,2025-03-22,2,22,22.5,2025-03-22,2,JZAEB & Eix,single,True,229151,1,67,Short Hit
+"Ptazeta: Bzrp Music Sessions, Vol. 45-Paul Thin & RUSLANA",2025-01-18,2025-01-19,2,42,46.0,2025-01-18,0,Paul Thin & RUSLANA,single,False,156973,1,55,Short Hit
+PÓLVORA-Mora,2024-08-30,2024-09-09,11,8,32.45454545454545,2024-08-30,0,Mora,album,True,185326,15,0,Medium Run
+Q U E V A S H A C E R H O Y ?-Omar Courtz,2025-09-25,2025-11-27,64,1,4.515625,2025-10-02,7,Omar Courtz,album,False,224022,17,66,Long Runner
+QLONA-KAROL G,2024-08-19,2025-10-19,342,8,26.453216374269005,2024-09-14,26,KAROL G,album,True,172797,9,74,Evergreen
+QUE ASCO DE TODO-Quevedo,2025-11-24,2025-11-27,4,19,28.75,2025-11-24,0,Quevedo,album,False,190304,18,61,Short Hit
+QUEVEDO #49 AFTER HOUR THE MIXTAPE-DJ Saot ST,2024-06-04,2024-06-04,1,48,48.0,2024-06-04,0,DJ Saot ST,album,False,120000,49,20,Short Hit
+QUIZÁS SI QUIZÁS NO-Alvaro Diaz & Quevedo,2024-11-25,2024-12-23,29,13,35.172413793103445,2024-11-25,0,Alvaro Diaz & Quevedo,single,False,203213,1,0,Medium Run
+Que Me Lleve el Aire-Luis Cortés,2025-10-10,2025-10-17,8,42,46.375,2025-10-13,3,Luis Cortés,single,False,170172,1,67,Short Hit
+Que te vaya bien-Rvfv,2024-05-18,2024-06-07,21,26,37.904761904761905,2024-05-18,0,Rvfv,single,False,204960,1,77,Medium Run
+"Quevedo: Bzrp Music Sessions, Vol. 52-Bizarrap & Quevedo",2024-05-18,2025-01-03,133,27,36.090225563909776,2024-05-29,11,Bizarrap & Quevedo,single,False,198937,1,93,Long Runner
+Quickie-Dei V,2025-11-19,2025-11-25,7,31,42.42857142857143,2025-11-23,4,Dei V,single,True,123673,1,65,Short Hit
+Quien Es Dei V?-Dei V,2024-09-24,2025-04-09,195,10,28.92820512820513,2024-10-04,10,Dei V,single,True,162244,1,68,Evergreen
+Quién es Dei V?-Dei V,2025-06-16,2025-06-16,1,50,50.0,2025-06-16,0,Dei V,album,True,162244,16,13,Short Hit
+Qué Pasaría...-Rauw Alejandro,2025-11-17,2025-11-27,11,1,4.454545454545454,2025-11-17,0,Rauw Alejandro,album,True,191018,18,72,Medium Run
+Qué Pecao-Manuel Turizo,2025-11-24,2025-11-27,4,34,39.0,2025-11-24,0,Manuel Turizo,album,False,230080,12,42,Short Hit
+Qué Pecao-Manuel Turizo & Kapo,2025-10-06,2025-11-23,49,13,19.979591836734695,2025-10-13,7,Manuel Turizo & Kapo,single,False,230073,1,58,Medium Run
+RAPAPA-JC Reyes,2025-10-20,2025-11-26,38,8,22.157894736842106,2025-11-01,12,JC Reyes,single,False,120888,6,51,Medium Run
+REAL GANGSTA LOVE-Trueno,2025-06-06,2025-11-16,154,1,18.272727272727273,2025-06-12,6,Trueno,album,True,145342,13,75,Evergreen
+REINA-Mora,2024-08-30,2025-04-17,229,1,15.491304347826087,2024-08-30,0,Mora,album,True,211879,15,0,Evergreen
+REMIX EXCLUSIVO-Feid,2024-05-18,2024-06-04,17,43,47.1764705882353,2024-05-20,2,Feid,single,True,206946,1,88,Medium Run
+RITMO DE MEDALLO-Feid,2024-09-30,2024-10-01,2,37,37.0,2024-09-30,0,Feid,album,False,118693,15,0,Short Hit
+RITUAL-Myke Towers,2024-11-25,2024-11-25,1,48,48.0,2024-11-25,0,Myke Towers,album,True,154432,23,0,Short Hit
+RKO-Eladio Carrion,2025-01-21,2025-01-24,4,20,38.25,2025-01-21,0,Eladio Carrion,album,True,106666,17,67,Short Hit
+RUEDA-Rvfv,2025-06-02,2025-08-14,70,21,40.9,2025-06-19,17,Rvfv,album,False,213120,20,36,Long Runner
+Rapeadita LOVE-Rels B,2025-04-28,2025-04-28,1,44,44.0,2025-04-28,0,Rels B,album,True,140439,13,65,Short Hit
+Rapido (with Cris Mj)-Dei V,2025-06-16,2025-11-27,162,5,14.462962962962964,2025-08-22,67,Dei V,album,True,146000,16,26,Evergreen
+Rara Vez-Taiu & Milo j,2024-05-18,2024-12-13,147,15,33.142857142857146,2024-05-20,2,Taiu & Milo j,single,False,128677,1,92,Long Runner
+"Rauw Alejandro: Bzrp Music Sessions, Vol. 56-Bizarrap & Rauw Alejandro",2024-06-24,2024-10-13,111,1,23.08108108108108,2024-06-24,0,Bizarrap & Rauw Alejandro,single,True,191254,1,78,Long Runner
+Razones-Ozuna & Anuel AA & Mambo Kingz,2025-06-30,2025-07-05,6,16,32.666666666666664,2025-06-30,0,Ozuna & Anuel AA & Mambo Kingz,single,False,222727,1,61,Short Hit
+Remember Me-Duki,2024-07-19,2024-07-22,4,43,45.25,2024-07-19,0,Duki,album,False,170624,15,59,Short Hit
+Revolú-Rauw Alejandro,2025-11-17,2025-11-23,7,10,24.428571428571427,2025-11-17,0,Rauw Alejandro,album,True,215511,18,67,Short Hit
+"Ride Or Die, Pt. 2 (with Villano Antillano & Tokischa)-Sevdaliza & Villano Antillano & Tokischa",2025-04-26,2025-05-12,5,26,40.0,2025-04-27,1,Sevdaliza & Villano Antillano & Tokischa,single,True,158728,2,79,Short Hit
+RoCKSTAR 2.0-Duki,2024-06-25,2024-07-02,8,16,22.75,2024-06-25,0,Duki,album,True,173729,14,67,Short Hit
+RoCKSTAR 2.0-Duki & Jhayco,2024-06-24,2024-06-24,1,14,14.0,2024-06-24,0,Duki & Jhayco,single,True,173729,1,71,Short Hit
+Rockin' Around The Christmas Tree-Brenda Lee,2024-12-24,2024-12-27,4,7,19.0,2024-12-25,1,Brenda Lee,album,False,126266,12,98,Short Hit
+Romero Santo-DELLAFUENTE,2025-06-16,2025-06-21,5,31,40.6,2025-06-16,0,DELLAFUENTE,album,False,191414,10,31,Short Hit
+Rosas-La Oreja de Van Gogh,2025-10-17,2025-10-26,10,30,42.5,2025-10-19,2,La Oreja de Van Gogh,album,False,237026,12,69,Short Hit
+RÁPIDO-Mora,2024-05-18,2024-05-24,7,41,44.0,2024-05-18,0,Mora,single,True,182857,1,81,Short Hit
+S91-KAROL G,2024-07-16,2024-09-04,49,21,35.10204081632653,2024-08-13,28,KAROL G,single,False,173005,1,74,Medium Run
+SE ME OLVIDA-Maisak & Feid,2025-08-24,2025-11-16,79,11,31.025316455696203,2025-09-01,8,Maisak & Feid,single,True,225373,1,0,Long Runner
+SE TE NOTA (feat. Peso Pluma)-Myke Towers,2025-08-24,2025-08-25,2,27,37.0,2025-08-24,0,Myke Towers,album,True,190106,20,0,Short Hit
+SEDA-Bad Bunny,2024-10-14,2025-02-13,119,6,25.201680672268907,2024-10-14,0,Bad Bunny,album,True,190476,22,0,Long Runner
+SEXO DESENFRENADO-Myke Towers,2025-08-24,2025-08-24,1,45,45.0,2025-08-24,0,Myke Towers,album,True,243360,20,0,Short Hit
+SEYA-GIMS,2024-10-21,2025-02-27,109,21,31.03669724770642,2024-12-20,60,GIMS,album,False,188484,21,51,Long Runner
+SHIBATTO-Quevedo,2025-11-24,2025-11-27,4,3,3.75,2025-11-26,2,Quevedo,album,False,138226,18,64,Short Hit
+SI NO ES CONTIGO-Cris Mj,2025-06-18,2025-09-20,92,31,38.59782608695652,2025-08-09,52,Cris Mj,single,True,156000,1,82,Long Runner
+SI SABE FERXXO-Blessd,2025-01-28,2025-02-28,31,27,39.806451612903224,2025-02-01,4,Blessd,album,True,152500,14,68,Medium Run
+"SI SI SI SI (feat. Eladio Carrion, Bryant Myers, Dei V)-The Academy: Segunda Misión",2025-03-31,2025-03-31,1,16,16.0,2025-03-31,0,The Academy: Segunda Misión,album,True,241958,9,42,Short Hit
+"SI SI SI SI (feat. Eladio Carrion, Bryant Myers, Dei V)-The Academy: Segunda Misión & Justin Quiles & Lenny Tavárez",2025-04-01,2025-06-08,58,16,38.55172413793103,2025-04-12,11,The Academy: Segunda Misión & Justin Quiles & Lenny Tavárez,album,True,241958,9,64,Long Runner
+SI TE PEGAS-Rauw Alejandro,2024-07-09,2024-07-12,4,30,36.75,2024-07-09,0,Rauw Alejandro,album,True,183652,14,0,Short Hit
+SORRY 4 THAT MUCH-Feid,2025-06-09,2025-07-17,38,9,24.263157894736842,2025-06-17,8,Feid,single,True,207746,1,63,Medium Run
+SPANISH TETEO-Rvfv & Rels B & Omar Montes,2024-09-10,2024-09-11,2,50,50.0,2024-09-10,0,Rvfv & Rels B & Omar Montes,single,True,181176,1,59,Short Hit
+STAR-JC Reyes,2025-10-20,2025-11-27,37,7,15.513513513513514,2025-11-15,26,JC Reyes,single,False,156000,6,49,Medium Run
+SUPERNOVA-SAIKO,2025-04-28,2025-05-03,6,33,40.833333333333336,2025-04-28,0,SAIKO,album,False,190909,16,54,Short Hit
+Sangre y Fe-Cruz Cafuné,2024-05-28,2024-06-16,20,6,30.65,2024-05-28,0,Cruz Cafuné,album,True,231500,23,61,Medium Run
+Santa Tell Me-Ariana Grande,2024-12-25,2024-12-27,3,17,25.0,2024-12-25,0,Ariana Grande,single,False,204093,1,96,Short Hit
+Santa-Rvssian,2025-05-22,2025-11-27,188,2,13.797872340425531,2025-05-22,0,Rvssian,single,False,193038,2,6,Evergreen
+Santa-Rvssian & Rauw Alejandro & Ayra Starr,2025-04-16,2025-05-21,36,1,3.3055555555555554,2025-04-21,5,Rvssian & Rauw Alejandro & Ayra Starr,single,False,193038,1,74,Medium Run
+Se Fue-Rauw Alejandro,2025-11-17,2025-11-27,11,5,13.363636363636363,2025-11-17,0,Rauw Alejandro,album,False,240179,18,69,Medium Run
+Se Grita-Morad,2024-07-21,2024-08-05,16,46,47.125,2024-07-25,4,Morad,album,True,259627,19,84,Medium Run
+Se Pone Las Nike-Cano,2025-11-06,2025-11-27,22,6,15.045454545454545,2025-11-14,8,Cano,album,False,159375,10,57,Medium Run
+SexeSexy-Mushkaa,2025-03-31,2025-04-13,6,40,44.333333333333336,2025-03-31,0,Mushkaa,album,False,232800,9,40,Short Hit
+"Shakira: Bzrp Music Sessions, Vol. 53-Bizarrap & Shakira",2024-05-18,2024-07-18,61,30,41.885245901639344,2024-05-23,5,Bizarrap & Shakira,single,False,214945,1,95,Long Runner
+Shars 2023-Al Safir,2024-11-30,2024-12-01,2,21,21.0,2024-11-30,0,Al Safir,single,False,163342,1,28,Short Hit
+Si Antes Te Hubiera Conocido-KAROL G,2025-06-22,2025-11-27,157,1,2.4394904458598727,2025-07-02,10,KAROL G,single,False,195824,1,0,Evergreen
+Si La Calle Llama - Remix-Eladio Carrion,2024-05-18,2024-08-29,104,20,32.57692307692308,2024-05-19,1,Eladio Carrion,album,True,240000,18,87,Long Runner
+Si No Estás-iñigo quintero,2024-09-20,2025-04-03,186,1,14.682795698924732,2024-09-29,9,iñigo quintero,single,False,184061,1,60,Evergreen
+Sigo Enamorau'-Eladio Carrion,2025-01-21,2025-01-21,1,17,17.0,2025-01-21,0,Eladio Carrion,album,True,194941,17,68,Short Hit
+Sin Gato (MIAU!)-Rels B,2024-05-28,2024-06-03,3,45,47.666666666666664,2024-05-28,0,Rels B,single,False,148800,1,63,Short Hit
+Sleigh Ride-The Ronettes,2024-12-25,2024-12-27,3,28,42.666666666666664,2024-12-25,0,The Ronettes,album,False,181266,15,84,Short Hit
+Snowman-Sia,2024-12-25,2024-12-27,3,27,37.0,2024-12-25,0,Sia,album,False,165900,13,94,Short Hit
+Sofi - Remix-Samueliyo Baby & KEVIN ROLDAN,2024-12-12,2024-12-14,3,22,32.333333333333336,2024-12-12,0,Samueliyo Baby & KEVIN ROLDAN,single,False,171606,1,67,Short Hit
+Solita y SueltAAA-Rels B,2024-07-23,2024-07-25,3,49,49.666666666666664,2024-07-25,2,Rels B,album,False,155789,9,64,Short Hit
+Soltera-Shakira,2025-09-28,2025-11-27,61,5,13.344262295081966,2025-10-14,16,Shakira,single,False,214642,1,65,Long Runner
+Sonrisa-Eladio Carrion,2025-01-21,2025-01-21,1,16,16.0,2025-01-21,0,Eladio Carrion,album,True,152380,17,68,Short Hit
+Sport+ RMX-Clarent & Myke Towers,2025-08-15,2025-08-23,9,47,48.666666666666664,2025-08-17,2,Clarent & Myke Towers,single,True,219813,1,69,Short Hit
+Suano-NTG & Amenazzy,2025-05-16,2025-08-09,80,6,23.55,2025-06-02,17,NTG & Amenazzy,single,True,137264,1,69,Long Runner
+Supernova-Saiko,2024-05-18,2024-12-16,201,1,23.601990049751244,2024-05-18,0,Saiko,single,False,190909,1,84,Evergreen
+T'as peur-Aya Nakamura,2024-05-18,2024-05-21,4,45,46.0,2024-05-18,0,Aya Nakamura,album,False,215284,15,70,Short Hit
+TAMBIÉN-Myke Towers,2025-08-24,2025-11-27,88,5,11.875,2025-10-06,43,Myke Towers,album,True,139546,20,0,Long Runner
+TE FALLÉ-Quevedo,2025-11-24,2025-11-27,4,17,25.25,2025-11-24,0,Quevedo,album,False,219460,18,61,Short Hit
+TELEFONO NUEVO-Bad Bunny,2024-10-14,2024-10-28,15,9,30.466666666666665,2024-10-14,0,Bad Bunny,album,True,354784,22,0,Medium Run
+THUNDER Y LIGHTNING-Bad Bunny,2024-10-14,2024-11-17,35,14,31.65714285714286,2024-10-14,0,Bad Bunny,album,True,217133,22,0,Medium Run
+TQG-KAROL G,2024-05-18,2025-08-08,120,9,31.983333333333334,2024-05-18,0,KAROL G,album,True,197933,17,96,Long Runner
+TQMQA-Eladio Carrion,2024-12-17,2025-01-26,32,15,38.9375,2025-01-21,35,Eladio Carrion,single,False,169911,1,67,Medium Run
+TU$$I (with Dei V)-YOVNGCHIMI,2025-03-02,2025-08-16,159,11,31.748427672955973,2025-03-19,17,YOVNGCHIMI,album,True,163200,16,76,Evergreen
+TUYA-ROSALÍA,2024-06-11,2024-07-18,38,6,29.18421052631579,2024-06-11,0,ROSALÍA,single,True,154551,1,72,Medium Run
+Tacos Gucci-Anuel AA,2025-02-18,2025-03-05,12,19,32.083333333333336,2025-02-22,4,Anuel AA,single,True,207157,1,67,Medium Run
+Tanta Droga-Eladio Carrion,2025-01-21,2025-01-21,1,27,27.0,2025-01-21,0,Eladio Carrion,album,True,248878,17,68,Short Hit
+Taste-Sabrina Carpenter,2025-08-29,2025-09-03,6,47,48.666666666666664,2025-08-31,2,Sabrina Carpenter,album,False,157279,12,87,Short Hit
+Tattoo-Loreen,2024-05-18,2024-06-02,16,21,37.1875,2024-05-18,0,Loreen,single,False,183374,1,89,Medium Run
+Te Menti-Ozuna & Saiko & Ovy On The Drums,2024-09-19,2024-09-29,11,38,45.45454545454545,2024-09-20,1,Ozuna & Saiko & Ovy On The Drums,single,False,187129,1,67,Medium Run
+Tengo Un Plan-Key-Key,2025-04-04,2025-06-11,69,11,26.391304347826086,2025-04-14,10,Key-Key,single,False,189282,1,68,Long Runner
+Thalía - Remix-Cyril Kamer & Rvfv & Polimá Westcoast,2025-07-18,2025-08-23,34,25,37.05882352941177,2025-08-04,17,Cyril Kamer & Rvfv & Polimá Westcoast,single,False,230857,1,60,Medium Run
+Thalía-Cyril Kamer,2025-03-15,2025-06-04,81,9,26.765432098765434,2025-04-09,25,Cyril Kamer,single,False,183428,1,63,Long Runner
+The Code-Nemo,2025-05-14,2025-05-18,5,24,36.8,2025-05-14,0,Nemo,single,False,180141,1,74,Short Hit
+The Emptiness Machine-Linkin Park,2025-09-11,2025-10-02,17,30,38.11764705882353,2025-09-13,2,Linkin Park,single,True,190427,1,86,Medium Run
+Timeless (with Playboi Carti)-The Weeknd & Playboi Carti,2025-09-29,2025-09-29,1,50,50.0,2025-09-29,0,The Weeknd & Playboi Carti,single,True,256000,1,79,Short Hit
+Todo Contigo-Álvaro De Luna,2024-05-18,2024-09-23,129,12,30.124031007751938,2024-05-18,0,Álvaro De Luna,single,False,165527,1,78,Long Runner
+Todo Lit-Eladio Carrion,2025-01-21,2025-01-21,1,23,23.0,2025-01-21,0,Eladio Carrion,album,True,241951,17,67,Short Hit
+Toy en el Mic-Bizarrap & Milo j,2024-10-07,2024-10-13,7,24,28.571428571428573,2024-10-10,3,Bizarrap & Milo j,single,True,137053,5,67,Short Hit
+Tranquila Baby-Eladio Carrion,2025-01-21,2025-01-21,1,32,32.0,2025-01-21,0,Eladio Carrion,album,True,128000,17,67,Short Hit
+Trato De Estar Bien-Duki,2025-11-03,2025-11-09,5,37,44.0,2025-11-03,0,Duki,album,False,213408,15,59,Short Hit
+Trending Remix (with Myke Towers)-Dei V,2025-03-03,2025-07-20,137,10,24.467153284671532,2025-03-10,7,Dei V,single,True,225154,1,76,Long Runner
+Tu Ritmo-Eladio Carrion,2025-01-21,2025-01-21,1,21,21.0,2025-01-21,0,Eladio Carrion,album,True,158446,17,68,Short Hit
+Tu Silueta-Diegote,2025-07-14,2025-10-28,106,5,17.40566037735849,2025-07-31,17,Diegote,single,False,170480,1,58,Long Runner
+Tú Con Él-Rauw Alejandro,2025-11-17,2025-11-23,7,12,24.857142857142858,2025-11-17,0,Rauw Alejandro,album,False,289131,18,69,Short Hit
+UN DESEO-Mora,2024-08-30,2024-08-31,2,20,31.0,2024-08-30,0,Mora,album,True,218883,15,0,Short Hit
+UN PREVIEW-Bad Bunny,2024-09-27,2024-11-02,37,1,22.405405405405407,2024-09-27,0,Bad Bunny,single,False,165582,1,0,Medium Run
+UNA BACHATA-Lola Indigo,2025-02-04,2025-04-27,77,8,30.01298701298701,2025-02-04,0,Lola Indigo,album,False,157846,7,60,Long Runner
+UWAIE-Kapo,2025-08-20,2025-11-27,100,2,9.24,2025-08-29,9,Kapo,single,False,172427,1,69,Long Runner
+Un Desperdicio-Rels B,2025-04-28,2025-05-15,16,29,36.6875,2025-05-08,10,Rels B,album,False,223783,13,67,Medium Run
+Un Rodeoooo-Rels B,2024-07-23,2024-09-23,57,36,44.421052631578945,2024-08-10,18,Rels B,album,False,136082,9,59,Long Runner
+Una Foto Remix (feat. Emilia)-Mesita & Nicki Nicole & Tiago PZK,2025-01-11,2025-06-15,154,6,24.24025974025974,2025-02-01,21,Mesita & Nicki Nicole & Tiago PZK,single,False,243898,1,77,Evergreen
+Una Velita-Bad Bunny,2025-09-22,2025-09-27,6,7,36.0,2025-09-22,0,Bad Bunny,single,True,239986,1,72,Short Hit
+Underneath the Tree-Kelly Clarkson,2024-12-25,2024-12-27,3,22,34.0,2024-12-25,0,Kelly Clarkson,album,False,229640,14,86,Short Hit
+VAGABUNDO-Sebastian Yatra,2024-09-24,2024-09-26,3,14,18.0,2024-09-24,0,Sebastian Yatra,album,False,215600,12,3,Short Hit
+VAGABUNDO-Sebastian Yatra & Manuel Turizo & Beéle,2024-05-18,2025-10-16,384,3,29.015625,2024-06-04,17,Sebastian Yatra & Manuel Turizo & Beéle,single,False,215600,1,76,Evergreen
+VENTE CONMIGO-Feid,2024-08-06,2024-08-12,7,22,35.285714285714285,2024-08-06,0,Feid,single,False,186000,1,71,Short Hit
+VISTA AL MAR-Quevedo,2024-05-21,2024-07-29,33,43,47.75757575757576,2024-05-30,9,Quevedo,album,False,180672,16,83,Medium Run
+VOLVER-Tainy,2024-07-02,2024-07-02,1,49,49.0,2024-07-02,0,Tainy,album,True,185806,19,69,Short Hit
+VOU 787-Bad Bunny,2024-10-14,2024-10-18,5,13,27.2,2024-10-14,0,Bad Bunny,album,True,123643,22,0,Short Hit
+VUELVE CANDY B-Bad Bunny,2024-10-14,2024-10-18,5,19,32.2,2024-10-14,0,Bad Bunny,album,True,266171,22,0,Short Hit
+"VVS Switch (feat. Hades66, Luar La L & CDobleta) - Remix-Pressure 9X19 & Anuel AA & YOVNGCHIMI",2025-03-17,2025-03-30,13,13,31.384615384615383,2025-03-17,0,Pressure 9X19 & Anuel AA & YOVNGCHIMI,single,True,555071,1,67,Medium Run
+Vacile-Yan Block,2025-08-15,2025-11-27,105,16,22.276190476190475,2025-10-17,63,Yan Block,single,True,140239,1,73,Long Runner
+Vida De Rock-Duki,2025-11-03,2025-11-10,8,34,40.375,2025-11-07,4,Duki,album,True,181503,15,62,Short Hit
+WANDA-Quevedo,2024-05-18,2024-12-07,145,18,28.448275862068964,2024-05-18,0,Quevedo,album,False,160909,16,87,Long Runner
+WHERE SHE GOES-Bad Bunny,2024-05-21,2024-10-28,154,1,15.876623376623376,2024-05-21,0,Bad Bunny,single,True,231704,1,82,Evergreen
+WYA REMIX RED-J Abdiel & De La Rose & Yan Block,2025-06-19,2025-11-16,140,22,34.957142857142856,2025-07-12,23,J Abdiel & De La Rose & Yan Block,single,True,321741,1,73,Long Runner
+Whisky-Samuel G & Oscar el Ruso & Aissa,2025-07-17,2025-07-31,15,30,35.6,2025-07-21,4,Samuel G & Oscar el Ruso & Aissa,single,False,305265,1,65,Medium Run
+X'CLUSIVO - REMIX-Gonzy,2025-10-13,2025-11-23,42,21,33.357142857142854,2025-10-13,0,Gonzy,album,True,208133,18,29,Medium Run
+X'CLUSIVO - REMIX-Gonzy & SAIKO & Arcángel,2025-03-03,2025-10-12,220,1,12.768181818181818,2025-03-03,0,Gonzy & SAIKO & Arcángel,single,True,208133,1,66,Evergreen
+X'CLUSIVO-Gonzy,2025-01-31,2025-03-09,38,3,18.05263157894737,2025-03-02,30,Gonzy,single,True,175586,1,72,Medium Run
+Xxx_Rosario_xxX-Saiko,2024-12-24,2025-01-05,13,23,34.53846153846154,2024-12-24,0,Saiko,album,True,188936,7,58,Medium Run
+YO LO SOÑÉ-SAIKO,2025-04-28,2025-08-16,109,1,24.06422018348624,2025-04-30,2,SAIKO,album,False,175456,16,56,Long Runner
+YO LO SOÑÉ-SAIKO & Omar Montes,2025-04-19,2025-04-27,9,2,5.0,2025-04-25,6,SAIKO & Omar Montes,single,False,175456,1,60,Short Hit
+YO TENGO UN NOVIO-Lola Indigo,2024-12-17,2024-12-24,8,18,32.875,2024-12-21,4,Lola Indigo,album,False,144424,7,55,Short Hit
+YOTULOKO-Omar Montes & Rels B,2025-07-14,2025-11-05,114,22,32.51754385964912,2025-07-27,13,Omar Montes & Rels B,single,False,213699,1,57,Long Runner
+Ya es Navidad Popurrí: Ya es Navidad- Zúmbale a la pandereta - Ya vienen los Reyes Magos - Arre Borriquito - Ya es Navidad-Raya Real,2024-12-25,2024-12-25,1,34,34.0,2024-12-25,0,Raya Real,album,False,262144,9,50,Short Hit
+Yandel 150-Yandel,2024-05-18,2024-09-23,125,10,26.376,2024-05-18,0,Yandel,album,True,216148,17,90,Long Runner
+Yankee 150-Yandel & Feid & Daddy Yankee,2024-06-18,2024-06-18,1,46,46.0,2024-06-18,0,Yandel & Feid & Daddy Yankee,single,True,242667,1,68,Short Hit
+Yo sé-Yan Block & TORRRES,2025-11-01,2025-11-27,26,8,22.384615384615383,2025-11-22,21,Yan Block & TORRRES,single,True,129705,1,69,Medium Run
+"Young Miko: Bzrp Music Sessions, Vol. 58-Bizarrap & Young Miko",2025-01-13,2025-04-26,101,1,17.431372549019606,2025-01-13,0,Bizarrap & Young Miko,single,False,187172,1,76,Long Runner
+ZORRA-Nebulossa,2025-02-05,2025-05-18,21,8,26.761904761904763,2025-02-05,0,Nebulossa,single,True,183577,1,67,Medium Run
+a new star (2 0 2 4)-Rels B,2025-05-09,2025-05-30,16,32,40.5625,2025-05-16,7,Rels B,album,True,142235,13,74,Medium Run
+caída del cielo <3-Rels B,2025-04-28,2025-05-01,2,38,43.0,2025-04-28,0,Rels B,album,True,133220,13,66,Short Hit
+do it 4 th€ gram-Cruz Cafuné,2025-07-21,2025-07-21,1,34,34.0,2025-07-21,0,Cruz Cafuné,single,True,150582,6,54,Short Hit
+don't liE-Duki,2024-06-25,2024-06-29,5,44,48.0,2024-06-28,3,Duki,album,False,213892,14,67,Short Hit
+haz lo que quieras conmigo-Walls,2025-09-22,2025-10-19,20,33,44.15,2025-09-22,0,Walls,single,False,208603,1,53,Medium Run
+i like the way you kiss me-Artemas,2025-04-04,2025-05-02,21,19,32.904761904761905,2025-04-18,14,Artemas,single,False,142514,1,92,Medium Run
+la noia-Angelina Mango,2025-05-14,2025-05-14,1,47,47.0,2025-05-14,0,Angelina Mango,single,False,189124,1,80,Short Hit
+la raíz d€l mal-Cruz Cafuné,2025-07-21,2025-07-26,4,42,47.5,2025-07-21,0,Cruz Cafuné,single,True,133767,6,54,Short Hit
+lady madrizZz-céro,2024-11-03,2025-03-02,117,8,27.324786324786324,2024-11-16,13,céro,single,False,131020,1,67,Long Runner
+miamor-Aitana,2024-09-24,2024-09-26,3,34,36.0,2024-09-24,0,Aitana,album,False,159360,15,31,Short Hit
+miamor-Aitana & Rels B,2024-08-26,2024-09-23,29,4,37.37931034482759,2024-08-26,0,Aitana & Rels B,single,False,159360,1,46,Medium Run
+m€ntiras-Cruz Cafuné,2025-07-21,2025-07-21,1,43,43.0,2025-07-21,0,Cruz Cafuné,single,True,151841,6,54,Short Hit
+offline-Young Miko,2025-04-07,2025-06-15,69,16,34.73913043478261,2025-04-09,2,Young Miko,album,False,201935,16,64,Long Runner
+rang€ rov€r-Cruz Cafuné,2025-07-21,2025-07-21,1,47,47.0,2025-07-21,0,Cruz Cafuné,single,True,117213,6,53,Short Hit
+rompeolas-Martin Urrutia,2025-04-12,2025-04-18,2,39,42.0,2025-04-18,6,Martin Urrutia,single,False,162519,1,68,Short Hit
+un x100to-Grupo Frontera & Bad Bunny,2024-05-18,2024-06-14,27,31,38.03703703703704,2024-05-21,3,Grupo Frontera & Bad Bunny,single,False,194563,1,99,Medium Run
+vampire-Olivia Rodrigo,2024-07-02,2024-07-02,1,48,48.0,2024-07-02,0,Olivia Rodrigo,single,True,219724,1,85,Short Hit
+we can't be friends (wait for your love)-Ariana Grande,2025-03-11,2025-03-20,8,31,41.5,2025-03-13,2,Ariana Grande,album,False,228639,13,81,Short Hit
+"yes, and?-Ariana Grande",2025-01-14,2025-01-20,7,30,35.42857142857143,2025-01-18,4,Ariana Grande,single,True,214994,1,85,Short Hit
