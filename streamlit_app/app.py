@@ -4,7 +4,7 @@ import pandas as pd
 st.title("Spain Top 50 – Song Lifecycle Analytics")
 
 # Load data
-lifecycle = pd.read_csv("C:/Users/slhar/Downloads/Spain_Music_Lifecycle_Project/output/final_lifecycle_dataset.csv")
+lifecycle = pd.read_csv("final_lifecycle_dataset.csv")
 
 st.sidebar.header("Filters")
 
@@ -81,3 +81,4 @@ st.header("Top 10 Fastest Rising Songs")
 
 top_fast = filtered_data.sort_values('days_to_peak').head(10)
 st.dataframe(top_fast[['song_id','days_to_peak','peak_rank']])
+
