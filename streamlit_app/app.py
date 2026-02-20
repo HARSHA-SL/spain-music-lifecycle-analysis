@@ -1,20 +1,42 @@
 import streamlit as st
 import pandas as pd
 
-st.title("Spain Top 50 – Song Lifecycle Analytics")
+# ---------------------------------------------------
+# Page Config
+# ---------------------------------------------------
+st.set_page_config(
+    page_title="Spain Top 50 Lifecycle Analytics",
+    page_icon="🎵",
+    layout="wide"
+)
 
-# Load data
-lifecycle = pd.read_csv("output/final_lifecycle_dataset.csv")
+# ---------------------------------------------------
+# Title
+# ---------------------------------------------------
+st.title("🎵 Spain Top 50 – Song Lifecycle Analytics")
+st.markdown("Analyze how songs enter, peak, and exit Spain’s Top 50 playlist.")
 
+st.markdown("---")
+
+# ---------------------------------------------------
+# Load Data
+# ---------------------------------------------------
+@st.cache_data
+def load_data():
+    return pd.read_csv("output/final_lifecycle_dataset.csv")
+
+lifecycle = load_data()
+
+# ---------------------------------------------------
+# Sidebar Filters
+# ---------------------------------------------------
 st.sidebar.header("Filters")
 
-# Explicit filter
 explicit_filter = st.sidebar.selectbox(
     "Explicit Content",
     ["All", "Explicit Only", "Clean Only"]
 )
 
-# Album type filter
 album_filter = st.sidebar.selectbox(
     "Album Type",
     ["All", "Single", "Album"]
@@ -30,56 +52,113 @@ elif explicit_filter == "Clean Only":
 
 # Apply album filter
 if album_filter != "All":
-    filtered_data = filtered_data[filtered_data['album_type'] == album_filter.lower()]
+    filtered_data = filtered_data[
+        filtered_data['album_type'] == album_filter.lower()
+    ]
 
-# KPIs
-st.header("Key Metrics")
+# If no data after filtering
+if filtered_data.empty:
+    st.warning("No data available for selected filters.")
+    st.stop()
 
-st.write("Total Songs:", filtered_data.shape[0])
-st.write("Average Lifespan:", round(filtered_data['total_days'].mean(), 2))
-st.write("Average Days to Peak:", round(filtered_data['days_to_peak'].mean(), 2))
+# ---------------------------------------------------
+# KPI Section
+# ---------------------------------------------------
+st.subheader("📊 Key Metrics")
 
-# Lifecycle type distribution
-st.header("Lifecycle Type Distribution")
-st.bar_chart(filtered_data['lifecycle_type'].value_counts())
+col1, col2, col3 = st.columns(3)
 
-st.header("Song Lifecycle Explorer")
+col1.metric("Total Songs", filtered_data.shape[0])
+col2.metric("Average Lifespan (Days)", round(filtered_data['total_days'].mean(), 2))
+col3.metric("Average Days to Peak", round(filtered_data['days_to_peak'].mean(), 2))
 
-# Song dropdown
+st.markdown("---")
+
+# ---------------------------------------------------
+# Lifecycle Distribution
+# ---------------------------------------------------
+st.subheader("Lifecycle Type Distribution")
+
+lifecycle_counts = filtered_data['lifecycle_type'].value_counts()
+
+col1, col2 = st.columns(2)
+
+with col1:
+    st.bar_chart(lifecycle_counts)
+
+with col2:
+    st.write("### Distribution Summary")
+    st.write(lifecycle_counts)
+
+st.markdown("---")
+
+# ---------------------------------------------------
+# Song Explorer
+# ---------------------------------------------------
+st.subheader("🎧 Song Lifecycle Explorer")
+
 selected_song = st.selectbox(
-    "Select a song",
-    filtered_data['song_id'].unique()
-
+    "Select a Song",
+    sorted(filtered_data['song_id'].unique())
 )
 
-# Filter data
 song_data = filtered_data[filtered_data['song_id'] == selected_song]
 
-# Display details
-st.write("Entry Date:", song_data['entry_date'].values[0])
-st.write("Exit Date:", song_data['exit_date'].values[0])
-st.write("Total Days on Playlist:", song_data['total_days'].values[0])
-st.write("Peak Rank:", song_data['peak_rank'].values[0])
-st.write("Days to Peak:", song_data['days_to_peak'].values[0])
+col1, col2, col3 = st.columns(3)
 
-st.header("Singles vs Albums – Average Lifespan")
+col1.metric("Total Days", int(song_data['total_days'].values[0]))
+col2.metric("Peak Rank", int(song_data['peak_rank'].values[0]))
+col3.metric("Days to Peak", int(song_data['days_to_peak'].values[0]))
 
-avg_life = filtered_data.groupby('album_type')['total_days'].mean()
-st.bar_chart(avg_life)
+col4, col5 = st.columns(2)
 
-st.header("Explicit vs Clean – Average Lifespan")
+col4.metric("Entry Date", song_data['entry_date'].values[0])
+col5.metric("Exit Date", song_data['exit_date'].values[0])
 
-avg_explicit = filtered_data.groupby('is_explicit')['total_days'].mean()
-st.bar_chart(avg_explicit)
+st.markdown("---")
 
-st.header("Top 10 Longest Surviving Songs")
+# ---------------------------------------------------
+# Comparison Charts
+# ---------------------------------------------------
+st.subheader("📈 Performance Comparisons")
 
-top_long = filtered_data.sort_values('total_days', ascending=False).head(10)
-st.dataframe(top_long[['song_id','total_days','peak_rank']])
+col1, col2 = st.columns(2)
 
-st.header("Top 10 Fastest Rising Songs")
+with col1:
+    st.markdown("#### Singles vs Albums – Avg Lifespan")
+    avg_life = filtered_data.groupby('album_type')['total_days'].mean()
+    st.bar_chart(avg_life)
 
-top_fast = filtered_data.sort_values('days_to_peak').head(10)
-st.dataframe(top_fast[['song_id','days_to_peak','peak_rank']])
+with col2:
+    st.markdown("#### Explicit vs Clean – Avg Lifespan")
+    avg_explicit = filtered_data.groupby('is_explicit')['total_days'].mean()
+    st.bar_chart(avg_explicit)
 
+st.markdown("---")
 
+# ---------------------------------------------------
+# Top Performers Section
+# ---------------------------------------------------
+st.subheader("🏆 Top Performers")
+
+col1, col2 = st.columns(2)
+
+with col1:
+    st.markdown("#### Top 10 Longest Surviving Songs")
+    top_long = filtered_data.sort_values(
+        'total_days', ascending=False
+    ).head(10)
+    st.dataframe(top_long[['song_id','total_days','peak_rank']],
+                 use_container_width=True)
+
+with col2:
+    st.markdown("#### Top 10 Fastest Rising Songs")
+    top_fast = filtered_data.sort_values(
+        'days_to_peak'
+    ).head(10)
+    st.dataframe(top_fast[['song_id','days_to_peak','peak_rank']],
+                 use_container_width=True)
+
+st.markdown("---")
+
+st.caption("Built with Python & Streamlit | Lifecycle Analytics Project")
